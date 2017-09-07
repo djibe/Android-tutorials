@@ -21,6 +21,21 @@
 <br>
 <hr>
 <br>
+<h2>Samsung Galaxy S5 mini G800F (kminilte/Exynos)</h2>
+<p>You can upgrade your SGS5 mini from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
+<p>Tutorial is here (:-)) : https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605</p>
+<p>What you will learn :</p>
+<ul>
+<li>Flash your phone with Odin</li>
+<li>Format partitions to F2FS for better IO performances</li>
+<li>Use custom kernel for better performances</li>
+<li>Flash and use TWRP recovery</li>
+<li>Install Android 7.1 Nougat</li>
+<li>Get root access</li>
+</ul>
+<br>
+<hr>
+<br>
 <h2>Asus Transformer Prime TF201</h2>
 <p>You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
 <p>Tutorial is here (20.000+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237</p>
@@ -40,7 +55,7 @@
 <br>
 <h2>Asus Transformer Pad TF300T</h2>
 <p>You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744/post70984429#post70984429</p>
+<p>Tutorial is here (24.000+ views) : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744/post70984429#post70984429</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Asus bootloader</li>
