@@ -7,7 +7,7 @@
 <br>
 <h2>Samsung Galaxy S2 i9100 or 9100p</h2>
 <p>You can upgrade your SGS2 from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (38.000+ views) : https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601</p>
+<p>Tutorial is here (44.888+ views) : https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601</p>
 <p>What you will learn :</p>
 <ul>
 <li>Flash your phone without a PC, Odin or Samsung's download mode, just from recovery</li>
