@@ -24,7 +24,7 @@
 <br>
 <h2>Samsung Galaxy S5 mini G800F (kminilte/Exynos)</h2>
 <p>You can upgrade your SGS5 mini from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (:-)) : https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605</p>
+<p>Tutorial is here (1080+) : https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605</p>
 <p>What you will learn :</p>
 <ul>
 <li>Flash your phone with Odin</li>
