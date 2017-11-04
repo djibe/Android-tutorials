@@ -72,7 +72,7 @@
 <br>
 <h2>Motorola Moto G 4G/LTE 2013 Peregrine</h2>
 <p>You can upgrade your Motorola Moto G 4G from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (1000+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234</p>
+<p>Tutorial is here (1400+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Motorola bootloader</li>
