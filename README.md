@@ -1,6 +1,6 @@
 # Android-tutorials
 
-<p>Hi, in this section you'll find my tutorials for upgrading your Android phones to the latest Android version available.</p>
+<p>Hi, in this section you'll find my tutorials for upgrading your Android phones and tablets to the latest Android version available.</p>
 <p>These guides are developed step-by-step for easier phone upgrade.</p>
 <p>Enjoy, djibe.</p>
 <hr>
