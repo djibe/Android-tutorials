@@ -88,7 +88,7 @@
 <br>
 <h2>Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy Any version to Android 7.1 Nougat</h2>
 <p>You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (6300+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831</p>
+<p>Tutorial is here (8300+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Sony bootloader</li>
