@@ -35,14 +35,14 @@
 <li>Install Android 7.1 Nougat</li>
 <li>Get root access</li>
 <li>Overclock</li>
-<li>Obtain Google services certification</li>
+<li>Obtain Google mobile services (GMS) certification</li>
 </ul>
 <br>
 <hr>
 <br>
 <h2>Asus Transformer Prime TF201</h2>
 <p>You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (29.800+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237</p>
+<p>Tutorial is here (35.000+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Asus bootloader</li>
@@ -53,6 +53,7 @@
 <li>Install Android 7.1 Nougat</li>
 <li>Get root access</li>
 <li>Overclock Transformer Prime TF201</li>
+<li>Obtain Google mobile services (GMS) certification</li>
 </ul>
 <br>
 <hr>
