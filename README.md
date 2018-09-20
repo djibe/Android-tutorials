@@ -42,7 +42,7 @@
 
 <h2>HTC One M7</h2>
 <p>You can upgrade your HTC One M7 from stock (Android 4.3) to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (1800+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366</p>
+<p>Tutorial is here (5500+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock HTC bootloader</li>
@@ -58,7 +58,7 @@
 
 <h2>Motorola Moto G 4G/LTE 2013 Peregrine</h2>
 <p>You can upgrade your Motorola Moto G 4G from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (4600+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234</p>
+<p>Tutorial is here (5100+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Motorola bootloader</li>
@@ -75,7 +75,7 @@
 
 <h2>Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy Any version to Android 7.1 Nougat</h2>
 <p>You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (17.000+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831</p>
+<p>Tutorial is here (20.000+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Sony bootloader</li>
