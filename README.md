@@ -91,22 +91,23 @@
 
 <h2>Samsung Galaxy Grand Prime G531F Any version to custom 5.1.1 Lollipop</h2>
 <p>You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2</p>
-<p>Tutorial is here (1200+ views) : https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200</p>
+<p>Tutorial is here (3100+ views) : https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200</p>
 <p>What you will learn :</p>
 <ul>
-<li>Flash your phone using Odin</li>
-<li>Install and use TWRP recovery</li>
-<li>Format partitions to F2FS for better IO performances</li>
-<li>Install Android 5.1 Lollipop</li>
-<li>Get root access</li>
-<li>Obtain Google mobile services (GMS) certification</li>
+  <li>Use the phone even if you don't know the codes of the Google account</li>
+  <li>Flash your phone using Odin</li>
+  <li>Install and use TWRP recovery</li>
+  <li>Format partitions to F2FS for better IO performances</li>
+  <li>Install Android 5.1 Lollipop</li>
+  <li>Get root access</li>
+  <li>Obtain Google mobile services (GMS) certification</li>
 </ul>
 
 <hr>
 
 <h2>Samsung Galaxy S2 i9100 or 9100p</h2>
 <p>You can upgrade your SGS2 from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (74.000+ views) : https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601</p>
+<p>Tutorial is here (83.700+ views) : https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601</p>
 <p>What you will learn :</p>
 <ul>
 <li>Flash your phone without a PC, Odin or Samsung's download mode, just from recovery</li>
@@ -124,7 +125,7 @@
 
 <h2>Samsung Galaxy S3 i9300</h2>
 <p>You can upgrade your SGS3 from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (1400+ views) : https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788</p>
+<p>Tutorial is here (1800+ views) : https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788</p>
 <p>What you will learn :</p>
 <ul>
 <li>Flash your phone with Odin</li>
