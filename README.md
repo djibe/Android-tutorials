@@ -8,7 +8,7 @@
 
 <h2>Asus Transformer Prime TF201</h2>
 <p>You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (42.000+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237</p>
+<p>Tutorial is here (45.500+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Asus bootloader</li>
@@ -26,7 +26,7 @@
 
 <h2>Asus Transformer Pad TF300T</h2>
 <p>You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (77.200+ views) : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744</p>
+<p>Tutorial is here (85.500+ views) : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Asus bootloader</li>
@@ -42,7 +42,7 @@
 
 <h2>HTC One M7</h2>
 <p>You can upgrade your HTC One M7 from stock (Android 4.3) to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (5500+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366</p>
+<p>Tutorial is here (8500+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock HTC bootloader</li>
