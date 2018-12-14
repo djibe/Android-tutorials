@@ -58,7 +58,7 @@
 
 <h2>Motorola Moto G 4G/LTE 2013 Peregrine</h2>
 <p>You can upgrade your Motorola Moto G 4G from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (5100+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234</p>
+<p>Tutorial is here (5500+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Motorola bootloader</li>
@@ -75,7 +75,7 @@
 
 <h2>Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy Any version to Android 7.1 Nougat</h2>
 <p>You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (20.000+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831</p>
+<p>Tutorial is here (21.500+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Sony bootloader</li>
@@ -91,7 +91,7 @@
 
 <h2>Samsung Galaxy Grand Prime G531F Any version to custom 5.1.1 Lollipop</h2>
 <p>You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2</p>
-<p>Tutorial is here (3100+ views) : https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200</p>
+<p>Tutorial is here (5000+ views) : https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200</p>
 <p>What you will learn :</p>
 <ul>
   <li>Use the phone even if you don't know the codes of the Google account</li>
@@ -107,7 +107,7 @@
 
 <h2>Samsung Galaxy S2 i9100 or 9100p</h2>
 <p>You can upgrade your SGS2 from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (83.700+ views) : https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601</p>
+<p>Tutorial is here (88.500+ views) : https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601</p>
 <p>What you will learn :</p>
 <ul>
 <li>Flash your phone without a PC, Odin or Samsung's download mode, just from recovery</li>
@@ -125,7 +125,7 @@
 
 <h2>Samsung Galaxy S3 i9300</h2>
 <p>You can upgrade your SGS3 from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (1800+ views) : https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788</p>
+<p>Tutorial is here (2300+ views) : https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788</p>
 <p>What you will learn :</p>
 <ul>
 <li>Flash your phone with Odin</li>
