@@ -73,7 +73,7 @@
 
 <hr>
 
-<h2>Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy Any version to Android 7.1 Nougat</h2>
+<h2>Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy</h2>
 <p>You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
 <p>Tutorial is here (21.500+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831</p>
 <p>What you will learn :</p>
@@ -89,7 +89,7 @@
 
 <hr>
 
-<h2>Samsung Galaxy Grand Prime G531F Any version to custom 5.1.1 Lollipop</h2>
+<h2>Samsung Galaxy Grand Prime G531F</h2>
 <p>You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2</p>
 <p>Tutorial is here (5000+ views) : https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200</p>
 <p>What you will learn :</p>
