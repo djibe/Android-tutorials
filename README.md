@@ -56,6 +56,22 @@
 
 <hr>
 
+<h2>LG G4 H815</h2>
+<p>You can upgrade your LG G4 h815 from stock to Android 7.1 Nougat / Lineage OS 14.1</p>
+<p>Tutorial is here (x views) : https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698</p>
+<p>What you will learn :</p>
+<ul>
+<li>Unlock LG bootloader</li>
+<li>Use fastboot</li>
+<li>Install and use TWRP recovery</li>
+<li>Format partitions to EXT4 for better IO performances</li>
+<li>Install Android 7.1 Nougat</li>
+<li>Get root access</li>
+<li>Obtain Google mobile services (GMS) certification</li>
+</ul>
+
+<hr>
+
 <h2>Motorola Moto G 4G/LTE 2013 Peregrine</h2>
 <p>You can upgrade your Motorola Moto G 4G from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
 <p>Tutorial is here (5500+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234</p>
