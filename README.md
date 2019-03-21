@@ -57,7 +57,7 @@
 <hr>
 
 <h2>LG G4 H815</h2>
-<p>You can upgrade your LG G4 h815 from stock to Android 7.1 Nougat / Lineage OS 14.1 or Android 8.1 Oreo</p>
+<p>You can upgrade your LG G4 h815 from stock to Android 7.1 Nougat / Lineage OS 14.1 or try Android 8.1 Oreo</p>
 <p>Tutorial is here (1500+ views) : https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698</p>
 <p>What you will learn :</p>
 <ul>
@@ -73,7 +73,7 @@
 
 <h2>Motorola Moto G 4G/LTE 2013 Peregrine</h2>
 <p>You can upgrade your Motorola Moto G 4G from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (5500+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234</p>
+<p>Tutorial is here (6300+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Motorola bootloader</li>
@@ -89,15 +89,15 @@
 <hr>
 
 <h2>Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy</h2>
-<p>You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (21.500+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831</p>
+<p>You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 8.1 Oreo / Lineage OS 15.1</p>
+<p>Tutorial is here (23.500+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Sony bootloader</li>
 <li>Use fastboot</li>
 <li>Install and use TWRP recovery</li>
 <li>Format partitions to F2FS for better IO performances</li>
-<li>Install Android 7.1 Nougat</li>
+<li>Install Android 8.1 Oreo</li>
 <li>Get root access</li>
 <li>Obtain Google mobile services (GMS) certification</li>
 </ul>
