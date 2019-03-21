@@ -1,6 +1,6 @@
 # Android-tutorials
 
-<p>Hi, in this section you'll find my tutorials for upgrading your Android phones and tablets to the latest Android version available.</p>
+<p>Hi, in this section you'll find my tutorials for upgrading your Android phones and tablets to the latest stable Android version available.</p>
 <p>These guides are detailed step-by-step for easier phone upgrade.</p>
 <p>Enjoy, djibe.</p>
 
@@ -8,7 +8,7 @@
 
 <h2>Asus Transformer Prime TF201</h2>
 <p>You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (45.500+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237</p>
+<p>Tutorial is here (49.500+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Asus bootloader</li>
@@ -26,7 +26,7 @@
 
 <h2>Asus Transformer Pad TF300T</h2>
 <p>You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (85.500+ views) : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744</p>
+<p>Tutorial is here (95.500+ views) : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock Asus bootloader</li>
@@ -41,15 +41,15 @@
 <hr>
 
 <h2>HTC One M7</h2>
-<p>You can upgrade your HTC One M7 from stock (Android 4.3) to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (8500+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366</p>
+<p>You can upgrade your HTC One M7 from stock (Android 4.3) to Android 7.1 Nougat / Lineage OS 14.1 or Android 8.1 Oreo</p>
+<p>Tutorial is here (11.300+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock HTC bootloader</li>
 <li>Use fastboot</li>
 <li>Install and use TWRP recovery</li>
 <li>Format partitions to F2FS for better IO performances</li>
-<li>Install Android 7.1 Nougat</li>
+<li>Install Android 7.1 Nougat (or Android 8.1)</li>
 <li>Get root access</li>
 <li>Obtain Google mobile services (GMS) certification</li>
 </ul>
@@ -57,14 +57,13 @@
 <hr>
 
 <h2>LG G4 H815</h2>
-<p>You can upgrade your LG G4 h815 from stock to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (x views) : https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698</p>
+<p>You can upgrade your LG G4 h815 from stock to Android 7.1 Nougat / Lineage OS 14.1 or Android 8.1 Oreo</p>
+<p>Tutorial is here (1500+ views) : https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698</p>
 <p>What you will learn :</p>
 <ul>
 <li>Unlock LG bootloader</li>
 <li>Use fastboot</li>
 <li>Install and use TWRP recovery</li>
-<li>Format partitions to EXT4 for better IO performances</li>
 <li>Install Android 7.1 Nougat</li>
 <li>Get root access</li>
 <li>Obtain Google mobile services (GMS) certification</li>
