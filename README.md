@@ -155,14 +155,14 @@
 <hr>
 
 <h2>Samsung Galaxy S4 i9505 (jfltexx)</h2>
-<p>You can upgrade your SGS4 from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (1000+) : https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706</p>
+<p>You can upgrade your SGS4 from any version to Android 8.1 Oreo / Lineage OS 15.1</p>
+<p>Tutorial is here (1200+) : https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706</p>
 <p>What you will learn :</p>
 <ul>
 <li>Flash your phone with Odin</li>
 <li>Format partitions to F2FS for better IO performances</li>
 <li>Flash and use TWRP recovery</li>
-<li>Install Android 7.1 Nougat</li>
+<li>Install Android 8.1 Oreo</li>
 <li>Get root access</li>
 <li>Obtain Google mobile services (GMS) certification</li>
 </ul>
@@ -171,7 +171,7 @@
 
 <h2>Samsung Galaxy S5 mini G800F (kminilte/Exynos)</h2>
 <p>You can upgrade your SGS5 mini from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (10500+) : https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605</p>
+<p>Tutorial is here (13.500+) : https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605</p>
 <p>What you will learn :</p>
 <ul>
 <li>Flash your phone with Odin</li>
