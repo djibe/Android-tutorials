@@ -170,7 +170,7 @@
 <hr>
 
 <h2>Samsung Galaxy S5 mini G800F (kminilte/Exynos)</h2>
-<p>You can upgrade your SGS5 mini from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
+<p>You can upgrade your SGS5 mini from any version to Android 9 Pie / Lineage OS 16</p>
 <p>Tutorial is here (13.500+) : https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605</p>
 <p>What you will learn :</p>
 <ul>
@@ -178,7 +178,7 @@
 <li>Format partitions to F2FS for better IO performances</li>
 <li>Use custom kernel for better performances</li>
 <li>Flash and use TWRP recovery</li>
-<li>Install Android 7.1 Nougat</li>
+<li>Install Android 9 Pie</li>
 <li>Get root access</li>
 <li>Overclock</li>
 <li>Obtain Google mobile services (GMS) certification</li>
