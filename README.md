@@ -1,30 +1,28 @@
 # Android-tutorials
 
-<p>Hi, in this section you'll find my tutorials for upgrading your Android phones and tablets to the latest stable Android version available.</p>
-<p>These guides are detailed step-by-step for easier phone upgrade.</p>
-<p>Enjoy, djibe.</p>
+Hi, in this section you'll find my tutorials for upgrading your Android phones and tablets to the latest stable Android version available.
+These guides are detailed step-by-step for easier phone upgrade.
+Enjoy, djibe.
 
 <hr>
 
-<h2>Asus Transformer Prime TF201</h2>
-<p>You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (49.500+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237</p>
-<p>What you will learn :</p>
-<ul>
-<li>Unlock Asus bootloader</li>
-<li>Backup Asus tab using NVFlash</li>
-<li>Use fastboot</li>
-<li>Install and use TWRP recovery</li>
-<li>Format partitions to F2FS for better IO performances</li>
-<li>Install Android 7.1 Nougat</li>
-<li>Get root access</li>
-<li>Overclock Transformer Prime TF201</li>
-<li>Obtain Google mobile services (GMS) certification</li>
-</ul>
+## Asus Transformer Prime TF201
+You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / Lineage OS 14.1
+Tutorial is here (49.500+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237
+What you will learn :
+* Unlock Asus bootloader
+* Backup Asus tab using NVFlash
+* Use fastboot
+* Install and use TWRP recovery
+* Format partitions to F2FS for better IO performances
+* Install Android 7.1 Nougat
+* Get root access
+* Overclock Transformer Prime TF201
+* Obtain Google mobile services (GMS) certification
 
 <hr>
 
-<h2>Asus Transformer Pad TF300T</h2>
+## Asus Transformer Pad TF300T
 <p>You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
 <p>Tutorial is here (95.500+ views) : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744</p>
 <p>What you will learn :</p>
@@ -40,49 +38,43 @@
 
 <hr>
 
-<h2>HTC One M7</h2>
-<p>You can upgrade your HTC One M7 from stock (Android 4.3) to Android 7.1 Nougat / Lineage OS 14.1 or Android 8.1 Oreo</p>
-<p>Tutorial is here (11.300+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366</p>
-<p>What you will learn :</p>
-<ul>
-<li>Unlock HTC bootloader</li>
-<li>Use fastboot</li>
-<li>Install and use TWRP recovery</li>
-<li>Format partitions to F2FS for better IO performances</li>
-<li>Install Android 7.1 Nougat (or Android 8.1)</li>
-<li>Get root access</li>
-<li>Obtain Google mobile services (GMS) certification</li>
-</ul>
+## HTC One M7
+You can upgrade your HTC One M7 (Sprint or Verizon variants too) from stock (Android 4.3) to Android 8.1 Oreo / AICP 13.1
+Tutorial is here (13.400+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366
+What you will learn :
+* Unlock HTC bootloader
+* Use fastboot
+* Install and use TWRP recovery
+* Format partitions to F2FS for better IO performances
+* Install Android 8.1 Oreo
+* Get root access
+* Obtain Google mobile services (GMS) certification
 
 <hr>
 
-<h2>LG G4 H815</h2>
-<p>You can upgrade your LG G4 h815 from stock to Android 7.1 Nougat / Lineage OS 14.1 or try Android 8.1 Oreo</p>
-<p>Tutorial is here (1500+ views) : https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698</p>
-<p>What you will learn :</p>
-<ul>
-<li>Unlock LG bootloader</li>
-<li>Use fastboot</li>
-<li>Install and use TWRP recovery</li>
-<li>Install Android 7.1 Nougat</li>
-<li>Get root access</li>
-<li>Obtain Google mobile services (GMS) certification</li>
-</ul>
+## LG G4 H815
+You can upgrade your LG G4 h815 from stock to Android 7.1 Nougat / Lineage OS 14.1 or try Android 8.1 Oreo
+Tutorial is here (1500+ views) : https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698
+What you will learn :
+* Unlock LG bootloader
+* Use fastboot
+* Install and use TWRP recovery
+* Install Android 7.1 Nougat
+* Get root access
+* Obtain Google mobile services (GMS) certification
 
 <hr>
 
-<h2>Motorola Moto G 4G/LTE 2013 Peregrine</h2>
-<p>You can upgrade your Motorola Moto G 4G from any version to Android 9 Pie / Lineage OS 16</p>
-<p>Tutorial is here (6300+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234</p>
-<p>What you will learn :</p>
-<ul>
-<li>Unlock Motorola bootloader</li>
-<li>Use fastboot</li>
-<li>Install and use TWRP recovery</li>
-<li>Format partitions to F2FS for better IO performances</li>
-<li>Install Android 9 Pie</li>
-<li>Get root access</li>
-</ul>
+## Motorola Moto G 4G/LTE 2013 Peregrine
+You can upgrade your Motorola Moto G 4G from any version to Android 9 Pie / Lineage OS 16
+Tutorial is here (6300+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234
+What you will learn :
+* Unlock Motorola bootloader
+* Use fastboot
+* Install and use TWRP recovery
+* Format partitions to F2FS for better IO performances
+* Install Android 9 Pie
+* Get root access
 
 <hr>
 
@@ -149,35 +141,30 @@
 <li>Obtain Google mobile services (GMS) certification</li>
 </ul>
 
+<hr>
+
+## Samsung Galaxy S4 i9505 (jfltexx)
+You can upgrade your SGS4 from any version to Android 8.1 Oreo / Lineage OS 15.1
+Tutorial is here (1200+) : https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706
+What you will learn :
+* Flash your phone with Odin
+* Format partitions to F2FS for better IO performances
+* Flash and use TWRP recovery
+* Install Android 8.1 Oreo
+* Get root access
+* Obtain Google mobile services (GMS) certification
 
 <hr>
 
-<h2>Samsung Galaxy S4 i9505 (jfltexx)</h2>
-<p>You can upgrade your SGS4 from any version to Android 8.1 Oreo / Lineage OS 15.1</p>
-<p>Tutorial is here (1200+) : https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706</p>
-<p>What you will learn :</p>
-<ul>
-<li>Flash your phone with Odin</li>
-<li>Format partitions to F2FS for better IO performances</li>
-<li>Flash and use TWRP recovery</li>
-<li>Install Android 8.1 Oreo</li>
-<li>Get root access</li>
-<li>Obtain Google mobile services (GMS) certification</li>
-</ul>
-
-<hr>
-
-<h2>Samsung Galaxy S5 mini G800F (kminilte/Exynos)</h2>
-<p>You can upgrade your SGS5 mini from any version to Android 9 Pie / Lineage OS 16</p>
-<p>Tutorial is here (13.500+) : https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605</p>
-<p>What you will learn :</p>
-<ul>
-<li>Flash your phone with Odin</li>
-<li>Format partitions to F2FS for better IO performances</li>
-<li>Use custom kernel for better performances</li>
-<li>Flash and use TWRP recovery</li>
-<li>Install Android 9 Pie</li>
-<li>Get root access</li>
-<li>Overclock</li>
-<li>Obtain Google mobile services (GMS) certification</li>
-</ul>
+## Samsung Galaxy S5 mini G800F (kminilte/Exynos)
+You can upgrade your SGS5 mini from any version to Android 9 Pie / Lineage OS 16
+Tutorial is here (13.500+) : https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605
+What you will learn :
+* Flash your phone with Odin
+* Format partitions to F2FS for better IO performances
+* Use custom kernel for better performances
+* Flash and use TWRP recovery
+* Install Android 9 Pie
+* Get root access
+* Overclock
+* Obtain Google mobile services (GMS) certification
