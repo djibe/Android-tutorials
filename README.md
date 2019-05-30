@@ -53,8 +53,10 @@ What you will learn :
 <hr>
 
 ## LG G4 H815
-You can upgrade your LG G4 h815 from stock to Android 7.1 Nougat / Lineage OS 14.1 or try Android 8.1 Oreo
+You can upgrade your LG G4 h815 from stock to Android 7.1 Nougat / Lineage OS 14.1 or try Android 8.1 Oreo.
+
 Tutorial is here (1500+ views) : https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698
+
 What you will learn :
 * Unlock LG bootloader
 * Use fastboot
@@ -66,8 +68,10 @@ What you will learn :
 <hr>
 
 ## Motorola Moto G 4G/LTE 2013 Peregrine
-You can upgrade your Motorola Moto G 4G from any version to Android 9 Pie / Lineage OS 16
+You can upgrade your Motorola Moto G 4G from any version to Android 9 Pie / Lineage OS 16. It works perfectly smoothly.
+
 Tutorial is here (6300+ views) : https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234
+
 What you will learn :
 * Unlock Motorola bootloader
 * Use fastboot
@@ -78,35 +82,35 @@ What you will learn :
 
 <hr>
 
-<h2>Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy</h2>
-<p>You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 8.1 Oreo / Lineage OS 15.1</p>
-<p>Tutorial is here (23.500+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831</p>
-<p>What you will learn :</p>
-<ul>
-<li>Unlock Sony bootloader</li>
-<li>Use fastboot</li>
-<li>Install and use TWRP recovery</li>
-<li>Format partitions to F2FS for better IO performances</li>
-<li>Install Android 8.1 Oreo</li>
-<li>Get root access</li>
-<li>Obtain Google mobile services (GMS) certification</li>
-</ul>
+## Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy
+You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 8.1 Oreo / Lineage OS 15.1
+
+Tutorial is here (23.500+ views) : https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831
+
+What you will learn :
+* Unlock Sony bootloader
+* Use fastboot
+* Install and use TWRP recovery
+* Format partitions to F2FS for better IO performances
+* Install Android 8.1 Oreo
+* Get root access
+* Obtain Google mobile services (GMS) certification
 
 <hr>
 
-<h2>Samsung Galaxy Grand Prime G531F</h2>
-<p>You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2</p>
-<p>Tutorial is here (6300+ views) : https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200</p>
-<p>What you will learn :</p>
-<ul>
-  <li>Use the phone even if you don't know the codes of the Google account</li>
-  <li>Flash your phone using Odin</li>
-  <li>Install and use TWRP recovery</li>
-  <li>Format partitions to F2FS for better IO performances</li>
-  <li>Install Android 5.1 Lollipop</li>
-  <li>Get root access</li>
-  <li>Obtain Google mobile services (GMS) certification</li>
-</ul>
+## Samsung Galaxy Grand Prime G531F
+You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2.
+
+Tutorial is here (6300+ views) : https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200
+
+What you will learn :
+* Use the phone even if you don't know the codes of the Google account
+* Flash your phone using Odin
+* Install and use TWRP recovery
+* Format partitions to F2FS for better IO performances
+* Install Android 5.1 Lollipop
+* Get root access
+* Obtain Google mobile services (GMS) certification
 
 <hr>
 
@@ -144,8 +148,10 @@ What you will learn :
 <hr>
 
 ## Samsung Galaxy S4 i9505 (jfltexx)
-You can upgrade your SGS4 from any version to Android 8.1 Oreo / Lineage OS 15.1
+You can upgrade your SGS4 from any version to Android 8.1 Oreo / Lineage OS 15.1.
+
 Tutorial is here (1200+) : https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706
+
 What you will learn :
 * Flash your phone with Odin
 * Format partitions to F2FS for better IO performances
@@ -157,8 +163,10 @@ What you will learn :
 <hr>
 
 ## Samsung Galaxy S5 mini G800F (kminilte/Exynos)
-You can upgrade your SGS5 mini from any version to Android 9 Pie / Lineage OS 16
+You can upgrade your SGS5 mini from any version to Android 9 Pie / Lineage OS 16.
+
 Tutorial is here (13.500+) : https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605
+
 What you will learn :
 * Flash your phone with Odin
 * Format partitions to F2FS for better IO performances
