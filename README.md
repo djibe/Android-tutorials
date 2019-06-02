@@ -8,7 +8,9 @@ Enjoy, djibe.
 
 ## Asus Transformer Prime TF201
 You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / Lineage OS 14.1
+
 Tutorial is here (49.500+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237
+
 What you will learn :
 * Unlock Asus bootloader
 * Backup Asus tab using NVFlash
@@ -23,24 +25,26 @@ What you will learn :
 <hr>
 
 ## Asus Transformer Pad TF300T
-<p>You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (95.500+ views) : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744</p>
-<p>What you will learn :</p>
-<ul>
-<li>Unlock Asus bootloader</li>
-<li>Use fastboot</li>
-<li>Install and use TWRP recovery</li>
-<li>Format partitions to F2FS for better IO performances</li>
-<li>Install Android 7.1 Nougat</li>
-<li>Get root access</li>
-<li>Obtain Google mobile services (GMS) certification</li>
-</ul>
+You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / Lineage OS 14.1
+  
+Tutorial is here (95.500+ views) : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744
+
+What you will learn :
+* Unlock Asus bootloader
+* Use fastboot
+* Install and use TWRP recovery
+* Format partitions to F2FS for better IO performances
+* Install Android 7.1 Nougat
+* Get root access
+* Obtain Google mobile services (GMS) certification
 
 <hr>
 
 ## HTC One M7
 You can upgrade your HTC One M7 (Sprint or Verizon variants too) from stock (Android 4.3) to Android 8.1 Oreo / AICP 13.1
+
 Tutorial is here (13.400+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366
+
 What you will learn :
 * Unlock HTC bootloader
 * Use fastboot
@@ -114,36 +118,36 @@ What you will learn :
 
 <hr>
 
-<h2>Samsung Galaxy S2 i9100 or 9100p</h2>
-<p>You can upgrade your SGS2 from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (94.100+ views) : https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601</p>
-<p>What you will learn :</p>
-<ul>
-<li>Flash your phone without a PC, Odin or Samsung's download mode, just from recovery</li>
-<li>Repartition your internal memory with Lanchon Repit to have bigger partitions</li>
-<li>Format partitions to F2FS for better IO performances</li>
-<li>Use custom kernel for better performances</li>
-<li>Flash and use TWRP recovery</li>
-<li>Install Android 7.1 Nougat</li>
-<li>Get root access</li>
-<li>Overclock</li>
-<li>Obtain Google mobile services (GMS) certification</li>
-</ul>
+## Samsung Galaxy S2 i9100 or 9100p
+You can upgrade your SGS2 from any version to Android 7.1 Nougat / Lineage OS 14.1
+
+Tutorial is here (94.100+ views) : https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601
+
+What you will learn :
+* Flash your phone without a PC, Odin or Samsung's download mode, just from recovery
+* Repartition your internal memory with Lanchon Repit to have bigger partitions
+* Format partitions to F2FS for better IO performances
+* Use custom kernel for better performances
+* Flash and use TWRP recovery
+* Install Android 7.1 Nougat
+* Get root access
+* Overclock CPU
+* Obtain Google mobile services (GMS) certification
 
 <hr>
 
-<h2>Samsung Galaxy S3 i9300</h2>
-<p>You can upgrade your SGS3 from any version to Android 7.1 Nougat / Lineage OS 14.1</p>
-<p>Tutorial is here (3200+ views) : https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788</p>
-<p>What you will learn :</p>
-<ul>
-<li>Flash your phone with Odin</li>
-<li>Format partitions to F2FS for better IO performances</li>
-<li>Flash and use TWRP recovery</li>
-<li>Install Android 7.1 Nougat</li>
-<li>Get root access</li>
-<li>Obtain Google mobile services (GMS) certification</li>
-</ul>
+## Samsung Galaxy S3 i9300
+You can upgrade your SGS3 from any version to Android 7.1 Nougat / Lineage OS 14.1
+
+Tutorial is here (3200+ views) : https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788
+
+What you will learn :
+Flash your phone with Odin
+* Format partitions to F2FS for better IO performances
+* Flash and use TWRP recovery
+* Install Android 7.1 Nougat
+* Get root access
+* Obtain Google mobile services (GMS) certification
 
 <hr>
 
@@ -169,6 +173,7 @@ Tutorial is here (13.500+) : https://forum.xda-developers.com/galaxy-s5-mini/gen
 
 What you will learn :
 * Flash your phone with Odin
+* Backup IMEI
 * Format partitions to F2FS for better IO performances
 * Use custom kernel for better performances
 * Flash and use TWRP recovery
