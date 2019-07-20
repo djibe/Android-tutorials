@@ -41,7 +41,7 @@ What you will learn :
 <hr>
 
 ## HTC One M7
-You can upgrade your HTC One M7 (Sprint or Verizon variants too) from stock (Android 4.3) to Android 8.1 Oreo / AICP 13.1
+You can upgrade your HTC One M7 from stock (Android 4.3) to Android 7.1 Nougat / Lineage OS 14.1
 
 Tutorial is here (13.400+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366
 
@@ -50,9 +50,8 @@ What you will learn :
 * Use fastboot
 * Install and use TWRP recovery
 * Format partitions to F2FS for better IO performances
-* Install Android 8.1 Oreo
+* Install Android 7.1 Nougat
 * Get root access
-* Obtain Google mobile services (GMS) certification
 
 <hr>
 
