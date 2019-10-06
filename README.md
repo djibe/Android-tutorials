@@ -164,7 +164,7 @@ Flash your phone with Odin
 <hr>
 
 ## Samsung Galaxy S4 i9505 (jfltexx)
-You can upgrade your SGS4 from any version to Android 8.1 Oreo / Lineage OS 15.1.
+You can upgrade your SGS4 from any version to Android 9 Pie / Lineage OS 16.
 
 Tutorial is here (1200+) : https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706
 
@@ -172,9 +172,8 @@ What you will learn :
 * Flash your phone with Odin
 * Format partitions to F2FS for better IO performances
 * Flash and use TWRP recovery
-* Install Android 8.1 Oreo
+* Install Android 9 Pie
 * Get root access
-* Obtain Google mobile services (GMS) certification
 
 <hr>
 
