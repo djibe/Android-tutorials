@@ -41,16 +41,16 @@ What you will learn :
 <hr>
 
 ## HTC One M7
-You can upgrade your HTC One M7 from stock (Android 4.3) to Android 7.1 Nougat / Lineage OS 14.1
+You can upgrade your HTC One M7 from stock (Android 4.3) to Android 9 Pie / Lineage OS 16
 
-Tutorial is here (13.400+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366
+Tutorial is here (17.600+ views) : https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366
 
 What you will learn :
 * Unlock HTC bootloader
 * Use fastboot
 * Install and use TWRP recovery
 * Format partitions to F2FS for better IO performances
-* Install Android 7.1 Nougat
+* Install Android 9 Pie
 * Get root access
 
 <hr>
