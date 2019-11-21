@@ -27,7 +27,7 @@ What you will learn :
 ## Asus Transformer Pad TF300T
 You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / Lineage OS 14.1
   
-Tutorial is here (95.500+ views) : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744
+Tutorial is here (114.500+ views) : https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744
 
 What you will learn :
 * Unlock Asus bootloader
