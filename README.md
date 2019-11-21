@@ -58,7 +58,7 @@ What you will learn :
 ## LG GPad 8.3 V500
 You can upgrade your LG GPad 8.3 V500 from stock to Android 7.1 Nougat / Lineage OS 14.1 or try Android 8.1 Oreo.
 
-Tutorial is here (100- views) : https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069
+Tutorial is here (1200 views) : https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069
 
 What you will learn :
 * Root stock tablet
