@@ -9,7 +9,7 @@ Enjoy, djibe.
 ## Asus Transformer Prime TF201
 You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / Lineage OS 14.1
 
-Tutorial is here (49.500+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237
+Tutorial is here (60.300+ views) : https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237
 
 What you will learn :
 * Unlock Asus bootloader
