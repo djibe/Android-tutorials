@@ -62,6 +62,23 @@ What you will learn :
 
 ***
 
+## HTC One M8
+
+You can upgrade your HTC One M8 from stock to Android 10 / LineageOS 17.1.
+
+Tutorial is here : <https://forum.xda-developers.com/htc-one-m8/general/guide-tutorial-howto-htc-one-m8-stock-t4125467>
+
+What you will learn :
+
+* Unlock HTC bootloader
+* Use fastboot
+* Install and use TWRP recovery
+* Install Android 10
+* Install Google Apps
+* Get root access with Magisk
+
+***
+
 ## LG GPad 8.3 V500
 
 You can upgrade your LG GPad 8.3 V500 from stock to Android 9 Pie / crDroid 5.x
@@ -239,7 +256,7 @@ Tutorial is here : <https://forum.xda-developers.com/galaxy-s6/general/guide-tut
 What you will learn :
 
 * Flash your phone with Odin
-* Backup IMEI and Nadroid backup
+* Backup IMEI and Nandroid backup
 * Format partitions to F2FS for better IO performances
 * Flash and use TWRP recovery
 * Install Android 10 Q
