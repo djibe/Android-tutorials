@@ -168,7 +168,7 @@ What you will learn :
 
 You can unlock your Samsung Galaxy S i9000 to use it with any mobile network carrier.
 
-Tutorial is here (550+ views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
+Tutorial is here (700+ views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
 
 What you will learn :
 
@@ -176,6 +176,19 @@ What you will learn :
 * Unlock/desimlock/debrand your phone
 
 ***
+
+You can upgrade your Galaxy S GT-i9000 from any version to Android 6 Marshmallow.
+
+Tutorial is here (X views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-samsung-galaxy-s-t4115653>
+
+What you will learn :
+
+* Flash your phone with Odin
+* Use custom kernel for better performances
+* Flash and use CWM recovery
+* Install Android 6 Marshmallow (and 4.4 KitKat which is recommended)
+* Install OpenGApps
+* Get root access
 
 ## Samsung Galaxy S2 i9100 or 9100p
 
