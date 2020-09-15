@@ -10,7 +10,7 @@ Enjoy, djibe.
 
 You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (66.400+ views) : <https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237>
+Tutorial is here (80.000+ views) : <https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237>
 
 What you will learn :
 
@@ -30,7 +30,7 @@ What you will learn :
 
 You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (127.900+ views) : <https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744>
+Tutorial is here (147.500+ views) : <https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744>
 
 What you will learn :
 
@@ -48,7 +48,7 @@ What you will learn :
 
 You can upgrade your HTC One M7 from stock (Android 4.3) to Android 10 / LineageOS 17.1.
 
-Tutorial is here (20.000+ views) : <https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366>
+Tutorial is here (24.000+ views) : <https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366>
 
 What you will learn :
 
@@ -66,7 +66,7 @@ What you will learn :
 
 You can upgrade your HTC One M8 from stock to Android 10 / LineageOS 17.1.
 
-Tutorial is here : <https://forum.xda-developers.com/htc-one-m8/general/guide-tutorial-howto-htc-one-m8-stock-t4125467>
+Tutorial is here (1400+) : <https://forum.xda-developers.com/htc-one-m8/general/guide-tutorial-howto-htc-one-m8-stock-t4125467>
 
 What you will learn :
 
@@ -83,7 +83,7 @@ What you will learn :
 
 You can upgrade your LG GPad 8.3 V500 from stock to Android 9 Pie / crDroid 5.x
 
-Tutorial is here (4700+ views) : <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
+Tutorial is here (12.000+ views) : <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
 
 What you will learn :
 
@@ -94,20 +94,21 @@ What you will learn :
 
 ***
 
-## LG G4 H815
+## LG G4 H815 / H811
 
-You can upgrade your LG G4 h815 from stock to Android 7.1 Nougat / LineageOS 14.1 or try Android 8.1 Oreo.
+You can upgrade your LG G4 h815 from stock to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (6700+ views) : <https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698>
+Tutorial is here (9500+ views) : <https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698>
 
 What you will learn :
 
 * Unlock LG bootloader
 * Use fastboot
 * Install and use TWRP recovery
-* Install Android 7.1 Nougat
+* Install Android 9 Pie and Google Apps
+* Install Magisk
 * Get root access
-* Obtain Google mobile services (GMS) certification
+* Bonus: Install SHRP recovery
 
 ***
 
@@ -115,7 +116,7 @@ What you will learn :
 
 You can upgrade your Motorola Moto G 4G from any version to Android 9 Pie / LineageOS 16. It works perfectly smoothly.
 
-Tutorial is here (8900+ views) : <https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234>
+Tutorial is here (10.300+ views) : <https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234>
 
 What you will learn :
 
@@ -130,9 +131,9 @@ What you will learn :
 
 ## Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy
 
-You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 8.1 Oreo / official LineageOS 15.1.
+You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 8.1 Oreo / LineageOS 15.1.
 
-Tutorial is here (34.200+ views) : <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
+Tutorial is here (39.100+ views) : <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
 
 What you will learn :
 
@@ -150,7 +151,7 @@ What you will learn :
 
 You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2.
 
-Tutorial is here (8500+ views) : <https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200>
+Tutorial is here (11.800+ views) : <https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200>
 
 What you will learn :
 
@@ -168,7 +169,7 @@ What you will learn :
 
 You can unlock your Samsung Galaxy S i9000 to use it with any mobile network carrier.
 
-Tutorial is here (700+ views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
+Tutorial is here 800+ views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
 
 What you will learn :
 
@@ -179,7 +180,7 @@ What you will learn :
 
 You can upgrade your Galaxy S GT-i9000 from any version to Android 6 Marshmallow.
 
-Tutorial is here (X views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-samsung-galaxy-s-t4115653>
+Tutorial is here (1100+ views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-samsung-galaxy-s-t4115653>
 
 What you will learn :
 
@@ -194,7 +195,7 @@ What you will learn :
 
 You can upgrade your Galaxy S2 from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (107.300+ views) : <https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601>
+Tutorial is here (111.600+ views) : <https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601>
 
 What you will learn :
 
@@ -214,7 +215,7 @@ What you will learn :
 
 You can upgrade your SGS3 from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (6000+ views) : <https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788>
+Tutorial is here (6900+ views) : <https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788>
 
 What you will learn :
 
