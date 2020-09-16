@@ -125,7 +125,7 @@ What you will learn :
 * Install and use TWRP recovery
 * Format partitions to F2FS for better IO performances
 * Install Android 9 Pie
-* Get root access
+* Get root access with Magisk
 
 ***
 
@@ -232,7 +232,7 @@ What you will learn :
 
 You can upgrade your SGS4 from any version to Android 9 Pie / Official LineageOS 16.
 
-Tutorial is here (2500+) : <https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706>
+Tutorial is here (2700+) : <https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706>
 
 What you will learn :
 
@@ -248,10 +248,10 @@ What you will learn :
 
 You can upgrade your SGS5 mini from any version to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (23.500+) : <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
+Tutorial is here (26.200+) : <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
 
 What you will learn :
-
+v
 * Flash your phone with Odin
 * Backup IMEI
 * Format partitions to F2FS for better IO performances
@@ -265,7 +265,7 @@ What you will learn :
 
 You can upgrade your Samsung Galaxy S6 from any version to Android 10 Q / LineageOS 17.1.
 
-Tutorial is here : <https://forum.xda-developers.com/galaxy-s6/general/guide-tutorial-howto-samsung-galaxy-s6-t4108425>
+Tutorial is here (10.600+): <https://forum.xda-developers.com/galaxy-s6/general/guide-tutorial-howto-samsung-galaxy-s6-t4108425>
 
 What you will learn :
 
