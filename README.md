@@ -129,24 +129,6 @@ What you will learn :
 
 ***
 
-## Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy
-
-You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 8.1 Oreo / LineageOS 15.1.
-
-Tutorial is here (39.100+ views) : <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
-
-What you will learn :
-
-* Unlock Sony bootloader
-* Use fastboot
-* Install and use TWRP recovery
-* Format partitions to F2FS for better IO performances
-* Install Android 8.1 Oreo
-* Get root access
-* Obtain Google mobile services (GMS) certification
-
-***
-
 ## Samsung Galaxy Grand Prime G531F
 
 You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2.
@@ -169,7 +151,7 @@ What you will learn :
 
 You can unlock your Samsung Galaxy S i9000 to use it with any mobile network carrier.
 
-Tutorial is here 800+ views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
+Tutorial is here (800+ views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
 
 What you will learn :
 
@@ -276,3 +258,22 @@ What you will learn :
 * Install Android 10 Q
 * Get root access and SafetyNet with Magisk
 * TODO: change screen resolution for better battery (+ underclock and save battery + dark theme)
+
+***
+
+## Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy
+
+You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 9 Pie / LineageOS 16.
+
+Tutorial is here (39.500+ views) : <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
+
+What you will learn :
+
+* Unlock Sony bootloader
+* Use fastboot and adb
+* Install and use TWRP recovery
+* Format partitions to F2FS for better IO performances
+* Install Android 9 Pie
+* Get root access with Magisk
+* Flash permanent recovery with FOTAkernel
+* Overclock tablet
