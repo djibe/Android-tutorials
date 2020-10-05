@@ -212,17 +212,18 @@ What you will learn :
 
 ## Samsung Galaxy S4 i9505 (jfltexx)
 
-You can upgrade your SGS4 from any version to Android 9 Pie / Official LineageOS 16.
+You can upgrade your SGS4 from any version to Android 10 Q / LineageOS 17.1.
 
 Tutorial is here (2700+) : <https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706>
 
 What you will learn :
 
-* Flash your phone with Odin
-* Format partitions to F2FS for better IO performances
-* Flash and use TWRP recovery
-* Install Android 9 Pie
-* Get root access
+* Flash TWRP recovery with Odin
+* UMake a nandroid backup with TWRP recovery
+* Install a custom ROM with TWRP recovery
+* Install Android 10 Q
+* Get root access with Magisk
+* Use Dark mode
 
 ***
 
