@@ -4,7 +4,7 @@ Hi, in this section you'll find my tutorials for upgrading your Android phones a
 These guides are detailed step-by-step for easier phone upgrade.
 Enjoy, djibe.
 
-***
+---
 
 ## Asus Transformer Prime TF201
 
@@ -14,17 +14,17 @@ Tutorial is here (80.000+ views) : <https://forum.xda-developers.com/transformer
 
 What you will learn :
 
-* Unlock Asus bootloader
-* Backup Asus tab using NVFlash
-* Use fastboot
-* Install and use TWRP recovery
-* Format partitions to F2FS for better IO performances
-* Install Android 7.1 Nougat
-* Get root access
-* Overclock Transformer Prime TF201
-* Obtain Google mobile services (GMS) certification
+- Unlock Asus bootloader
+- Backup Asus tab using NVFlash
+- Use fastboot
+- Install and use TWRP recovery
+- Format partitions to F2FS for better IO performances
+- Install Android 7.1 Nougat
+- Get root access
+- Overclock Transformer Prime TF201
+- Obtain Google mobile services (GMS) certification
 
-***
+---
 
 ## Asus Transformer Pad TF300T
 
@@ -34,15 +34,15 @@ Tutorial is here (147.500+ views) : <https://forum.xda-developers.com/transforme
 
 What you will learn :
 
-* Unlock Asus bootloader
-* Use fastboot
-* Install and use TWRP recovery
-* Format partitions to F2FS for better IO performances
-* Install Android 7.1 Nougat
-* Get root access
-* Obtain Google mobile services (GMS) certification
+- Unlock Asus bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Format partitions to F2FS for better IO performances
+- Install Android 7.1 Nougat
+- Get root access
+- Obtain Google mobile services (GMS) certification
 
-***
+---
 
 ## HTC One M7
 
@@ -52,15 +52,15 @@ Tutorial is here (24.000+ views) : <https://forum.xda-developers.com/htc-one/gen
 
 What you will learn :
 
-* Unlock HTC bootloader
-* Use fastboot
-* Install and use TWRP recovery
-* Install Android 10
-* Install Google Apps
-* Get root access with Magisk
-* Revert to stock ROM to desimlock/debrand phone
+- Unlock HTC bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 10
+- Install Google Apps
+- Get root access with Magisk
+- Revert to stock ROM to desimlock/debrand phone
 
-***
+---
 
 ## HTC One M8
 
@@ -70,14 +70,14 @@ Tutorial is here (1400+) : <https://forum.xda-developers.com/htc-one-m8/general/
 
 What you will learn :
 
-* Unlock HTC bootloader
-* Use fastboot
-* Install and use TWRP recovery
-* Install Android 10
-* Install Google Apps
-* Get root access with Magisk
+- Unlock HTC bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 10
+- Install Google Apps
+- Get root access with Magisk
 
-***
+---
 
 ## LG GPad 8.3 V500
 
@@ -87,12 +87,12 @@ Tutorial is here (12.000+ views) : <https://forum.xda-developers.com/lg-g-pad-83
 
 What you will learn :
 
-* Root stock tablet
-* Install and use TWRP recovery
-* Install Android 9 Pie and Google Apps
-* Get root access
+- Root stock tablet
+- Install and use TWRP recovery
+- Install Android 9 Pie and Google Apps
+- Get root access
 
-***
+---
 
 ## LG G4 H815 / H811
 
@@ -102,15 +102,15 @@ Tutorial is here (9500+ views) : <https://forum.xda-developers.com/g4/general/gu
 
 What you will learn :
 
-* Unlock LG bootloader
-* Use fastboot
-* Install and use TWRP recovery
-* Install Android 9 Pie and Google Apps
-* Install Magisk
-* Get root access
-* Bonus: Install SHRP recovery
+- Unlock LG bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 9 Pie and Google Apps
+- Install Magisk
+- Get root access
+- Bonus: Install SHRP recovery
 
-***
+---
 
 ## Motorola Moto G 4G/LTE 2013 Peregrine
 
@@ -120,14 +120,14 @@ Tutorial is here (10.300+ views) : <https://forum.xda-developers.com/moto-g/help
 
 What you will learn :
 
-* Unlock Motorola bootloader
-* Use fastboot
-* Install and use TWRP recovery
-* Format partitions to F2FS for better IO performances
-* Install Android 9 Pie
-* Get root access with Magisk
+- Unlock Motorola bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Format partitions to F2FS for better IO performances
+- Install Android 9 Pie
+- Get root access with Magisk
 
-***
+---
 
 ## Samsung Galaxy Grand Prime G531F
 
@@ -137,15 +137,15 @@ Tutorial is here (11.800+ views) : <https://forum.xda-developers.com/grand-prime
 
 What you will learn :
 
-* Use the phone even if you don't know the codes of the Google account
-* Flash your phone using Odin
-* Install and use TWRP recovery
-* Format partitions to F2FS for better IO performances
-* Install Android 5.1 Lollipop
-* Get root access
-* Obtain Google mobile services (GMS) certification
+- Use the phone even if you don't know the codes of the Google account
+- Flash your phone using Odin
+- Install and use TWRP recovery
+- Format partitions to F2FS for better IO performances
+- Install Android 5.1 Lollipop
+- Get root access
+- Obtain Google mobile services (GMS) certification
 
-***
+---
 
 ## Samsung Galaxy S i9000
 
@@ -155,10 +155,10 @@ Tutorial is here (800+ views) : <https://forum.xda-developers.com/galaxy-s-i9000
 
 What you will learn :
 
-* Root phone
-* Unlock/desimlock/debrand your phone
+- Root phone
+- Unlock/desimlock/debrand your phone
 
-***
+---
 
 You can upgrade your Galaxy S GT-i9000 from any version to Android 6 Marshmallow.
 
@@ -166,12 +166,12 @@ Tutorial is here (1100+ views) : <https://forum.xda-developers.com/galaxy-s-i900
 
 What you will learn :
 
-* Flash your phone with Odin
-* Use custom kernel for better performances
-* Flash and use CWM recovery
-* Install Android 6 Marshmallow (and 4.4 KitKat which is recommended)
-* Install OpenGApps
-* Get root access
+- Flash your phone with Odin
+- Use custom kernel for better performances
+- Flash and use CWM recovery
+- Install Android 6 Marshmallow (and 4.4 KitKat which is recommended)
+- Install OpenGApps
+- Get root access
 
 ## Samsung Galaxy S2 i9100 or 9100p
 
@@ -181,17 +181,17 @@ Tutorial is here (111.600+ views) : <https://forum.xda-developers.com/galaxy-s2/
 
 What you will learn :
 
-* Flash your phone without a PC, Odin or Samsung's download mode, just from recovery
-* Repartition your internal memory with Lanchon Repit to have bigger partitions
-* Format partitions to F2FS for better IO performances
-* Use custom kernel for better performances
-* Flash and use TWRP recovery
-* Install Android 7.1 Nougat
-* Get root access
-* Overclock CPU
-* Obtain Google mobile services (GMS) certification
+- Flash your phone without a PC, Odin or Samsung's download mode, just from recovery
+- Repartition your internal memory with Lanchon Repit to have bigger partitions
+- Format partitions to F2FS for better IO performances
+- Use custom kernel for better performances
+- Flash and use TWRP recovery
+- Install Android 7.1 Nougat
+- Get root access
+- Overclock CPU
+- Obtain Google mobile services (GMS) certification
 
-***
+---
 
 ## Samsung Galaxy S3 i9300
 
@@ -201,14 +201,14 @@ Tutorial is here (6900+ views) : <https://forum.xda-developers.com/galaxy-s3/hel
 
 What you will learn :
 
-* Flash your phone with Odin
-* Format partitions to F2FS for better IO performances
-* Flash and use TWRP recovery
-* Install Android 7.1 Nougat
-* Get root access
-* Obtain Google mobile services (GMS) certification
+- Flash your phone with Odin
+- Format partitions to F2FS for better IO performances
+- Flash and use TWRP recovery
+- Install Android 7.1 Nougat
+- Get root access
+- Obtain Google mobile services (GMS) certification
 
-***
+---
 
 ## Samsung Galaxy S4 i9505 (jfltexx)
 
@@ -218,14 +218,14 @@ Tutorial is here (2700+) : <https://forum.xda-developers.com/galaxy-s4/help/guid
 
 What you will learn :
 
-* Flash TWRP recovery with Odin
-* UMake a nandroid backup with TWRP recovery
-* Install a custom ROM with TWRP recovery
-* Install Android 10 Q
-* Get root access with Magisk
-* Use Dark mode
+- Flash TWRP recovery with Odin
+- UMake a nandroid backup with TWRP recovery
+- Install a custom ROM with TWRP recovery
+- Install Android 10 Q
+- Get root access with Magisk
+- Use Dark mode
 
-***
+---
 
 ## Samsung Galaxy S5 mini G800F (kminilte/Exynos)
 
@@ -235,14 +235,14 @@ Tutorial is here (26.200+) : <https://forum.xda-developers.com/galaxy-s5-mini/ge
 
 What you will learn :
 v
-* Flash your phone with Odin
-* Backup IMEI
-* Format partitions to F2FS for better IO performances
-* Flash and use TWRP recovery
-* Install Android 9 Pie
-* Get root access
+- Flash your phone with Odin
+- Backup IMEI
+- Format partitions to F2FS for better IO performances
+- Flash and use TWRP recovery
+- Install Android 9 Pie
+- Get root access
 
-***
+---
 
 ## Samsung Galaxy S6 SM-G920F (zeroflte)
 
@@ -252,15 +252,32 @@ Tutorial is here (10.600+): <https://forum.xda-developers.com/galaxy-s6/general/
 
 What you will learn :
 
-* Flash your phone with Odin
-* Backup IMEI and Nandroid backup
-* Format partitions to F2FS for better IO performances
-* Flash and use TWRP recovery
-* Install Android 10 Q
-* Get root access and SafetyNet with Magisk
-* TODO: change screen resolution for better battery (+ underclock and save battery + dark theme)
+- Flash your phone with Odin
+- Backup IMEI and Nandroid backup
+- Format partitions to F2FS for better IO performances
+- Flash and use TWRP recovery
+- Install Android 10 Q
+- Get root access and SafetyNet with Magisk
+- TODO: change screen resolution for better battery (+ underclock and save battery + dark theme)
 
-***
+---
+
+## Sony Xperia SP/C5303/huashan
+
+You can upgrade your Sony Xperia SP from any version to Android 10 Q / LineageOS 17.1.
+
+Tutorial is here : <https://forum.xda-developers.com/xperia-sp/general/guide-tutorial-howto-sony-xperia-sp-t4181823>
+
+What you will learn :
+
+- Unlock Sony bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Flash permanent recovery with FOTAkernel
+- Install Android 10 Q
+- Get root access with Magisk
+
+---
 
 ## Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy
 
@@ -270,11 +287,11 @@ Tutorial is here (39.500+ views) : <https://forum.xda-developers.com/xperia-tabl
 
 What you will learn :
 
-* Unlock Sony bootloader
-* Use fastboot and adb
-* Install and use TWRP recovery
-* Format partitions to F2FS for better IO performances
-* Install Android 9 Pie
-* Get root access with Magisk
-* Flash permanent recovery with FOTAkernel
-* Overclock tablet
+- Unlock Sony bootloader
+- Use fastboot and adb
+- Install and use TWRP recovery
+- Format partitions to F2FS for better IO performances
+- Install Android 9 Pie
+- Get root access with Magisk
+- Flash permanent recovery with FOTAkernel
+- Overclock tablet
