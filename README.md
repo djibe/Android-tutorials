@@ -231,34 +231,34 @@ What you will learn :
 
 You can upgrade your SGS5 mini from any version to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (26.200+) : <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
+Tutorial is here (27.700+) : <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
 
 What you will learn :
-v
+
 - Flash your phone with Odin
-- Backup IMEI
-- Format partitions to F2FS for better IO performances
+- Backup IMEI/EFS partition and all partitions
 - Flash and use TWRP recovery
 - Install Android 9 Pie
-- Get root access
+- Get root access with Magisk
+- Set Dark mode for better battery
 
 ---
 
 ## Samsung Galaxy S6 SM-G920F (zeroflte)
 
-You can upgrade your Samsung Galaxy S6 from any version to Android 10 Q / LineageOS 17.1.
+You can upgrade your Samsung Galaxy S6 from any version to Android 10 Q / Pixel Experience.
 
-Tutorial is here (10.600+): <https://forum.xda-developers.com/galaxy-s6/general/guide-tutorial-howto-samsung-galaxy-s6-t4108425>
+Tutorial is here (15.000+): <https://forum.xda-developers.com/galaxy-s6/general/guide-tutorial-howto-samsung-galaxy-s6-t4108425>
 
 What you will learn :
 
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
-- Format partitions to F2FS for better IO performances
 - Flash and use TWRP recovery
 - Install Android 10 Q
 - Get root access and SafetyNet with Magisk
-- TODO: change screen resolution for better battery (+ underclock and save battery + dark theme)
+- Change screen resolution for better battery
+- Set Dark mode for better battery
 
 ---
 
