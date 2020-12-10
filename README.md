@@ -259,6 +259,25 @@ What you will learn :
 - Get root access and SafetyNet with Magisk
 - Change screen resolution for better battery
 - Set Dark mode for better battery
+- Change screen resolution for better battery
+
+---
+
+## Samsung Galaxy S7 (herolte/Exynos)
+
+You can upgrade your Samsung Galaxy S7 from stock to Android 10 Q / Pixel Experience.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
+
+What you will learn :
+
+- Flash your phone with Odin
+- Backup IMEI and Nandroid backup
+- Flash and use TWRP recovery
+- Install Android 10 Q
+- Get root access and SafetyNet with Magisk
+- Change screen resolution for better battery
+- Set Dark mode for better battery
 
 ---
 
