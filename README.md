@@ -149,7 +149,7 @@ What you will learn :
 
 ## Samsung Galaxy S i9000
 
-You can unlock your Samsung Galaxy S i9000 to use it with any mobile network carrier.
+You can unlock your Samsung Galaxy S I9000 to use it with any mobile network carrier.
 
 Tutorial is here (800+ views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
 
@@ -160,7 +160,7 @@ What you will learn :
 
 ---
 
-You can upgrade your Galaxy S GT-i9000 from any version to Android 6 Marshmallow.
+You can upgrade your Galaxy S GT-I9000 from any version to Android 6 Marshmallow.
 
 Tutorial is here (1100+ views) : <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-samsung-galaxy-s-t4115653>
 
@@ -173,13 +173,15 @@ What you will learn :
 - Install OpenGApps
 - Get root access
 
+---
+
 ## Samsung Galaxy S2 i9100 or 9100p
 
 You can upgrade your Galaxy S2 from any version to Android 7.1 Nougat / LineageOS 14.1.
 
 Tutorial is here (111.600+ views) : <https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601>
 
-What you will learn :
+What you will learn:
 
 - Flash your phone without a PC, Odin or Samsung's download mode, just from recovery
 - Repartition your internal memory with Lanchon Repit to have bigger partitions
@@ -195,18 +197,18 @@ What you will learn :
 
 ## Samsung Galaxy S3 i9300
 
-You can upgrade your SGS3 from any version to Android 7.1 Nougat / LineageOS 14.1.
+You can upgrade your Samsung Galaxy S3 from any version to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (6900+ views) : <https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788>
+Tutorial is here (7000+ views) : <https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788>
 
-What you will learn :
+What you will learn:
 
 - Flash your phone with Odin
-- Format partitions to F2FS for better IO performances
 - Flash and use TWRP recovery
-- Install Android 7.1 Nougat
-- Get root access
-- Obtain Google mobile services (GMS) certification
+- Install Android 9 Pie / Optimized LineageOS 16
+- Fix Wifi
+- Get root access with Magisk
+- Use Dark mode
 
 ---
 
@@ -216,7 +218,7 @@ You can upgrade your SGS4 from any version to Android 10 Q / LineageOS 17.1.
 
 Tutorial is here (2700+) : <https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706>
 
-What you will learn :
+What you will learn:
 
 - Flash TWRP recovery with Odin
 - UMake a nandroid backup with TWRP recovery
