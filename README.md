@@ -1,7 +1,8 @@
 # Android-tutorials
 
-Hi, in this section you'll find my tutorials for upgrading your Android phones and tablets to the latest stable Android version available.
-These guides are detailed step-by-step for easier phone upgrade.
+Hi,  
+in this section you will find my tutorials for upgrading your Android phones and tablets to the latest stable Android version available.  
+These guides are detailed step-by-step for easier phone upgrade.  
 Enjoy, djibe.
 
 ---
@@ -10,7 +11,7 @@ Enjoy, djibe.
 
 You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (80.000+ views): <https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237>
+Tutorial is here (82.000+ views): <https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237>
 
 What you will learn:
 
@@ -30,7 +31,7 @@ What you will learn:
 
 You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (147.500+ views): <https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744>
+Tutorial is here (151.000+ views): <https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744>
 
 What you will learn:
 
@@ -44,11 +45,28 @@ What you will learn:
 
 ---
 
+## Google Nexus 7 2012
+
+You can upgrade your Google Nexus 7 2012 tablet (3G or wifi) from stock to Android 7.1 Nougat / LineageOS 14.1.
+  
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
+
+What you will learn:
+
+- Unlock bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Format partitions to F2FS for better IO performances
+- Install Android 7.1 Nougat
+- Get root access with Magisk
+
+---
+
 ## HTC One M7
 
 You can upgrade your HTC One M7 from stock (Android 4.3) to Android 10 / LineageOS 17.1.
 
-Tutorial is here (24.000+ views): <https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366>
+Tutorial is here (25.000+ views): <https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366>
 
 What you will learn:
 
@@ -66,14 +84,14 @@ What you will learn:
 
 You can upgrade your HTC One M8 from stock to Android 10 / LineageOS 17.1.
 
-Tutorial is here (1400+): <https://forum.xda-developers.com/htc-one-m8/general/guide-tutorial-howto-htc-one-m8-stock-t4125467>
+Tutorial is here (2000+): <https://forum.xda-developers.com/htc-one-m8/general/guide-tutorial-howto-htc-one-m8-stock-t4125467>
 
 What you will learn:
 
 - Unlock HTC bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 10
+- Install Android 10 with official LineageOS
 - Install Google Apps
 - Get root access with Magisk
 
@@ -98,7 +116,7 @@ What you will learn:
 
 You can upgrade your LG G4 h815 from stock to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (9500+ views): <https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698>
+Tutorial is here (10.000+ views): <https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698>
 
 What you will learn:
 
@@ -114,9 +132,9 @@ What you will learn:
 
 ## Motorola Moto G 4G/LTE 2013 Peregrine
 
-You can upgrade your Motorola Moto G 4G from any version to Android 9 Pie / LineageOS 16. It works perfectly smoothly.
+You can upgrade your Motorola Moto G 4G from stock to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (10.300+ views): <https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234>
+Tutorial is here (11.000+ views): <https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234>
 
 What you will learn:
 
@@ -322,7 +340,7 @@ What you will learn:
 
 You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (39.500+ views): <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
+Tutorial is here (42.000+ views): <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
 
 What you will learn:
 
