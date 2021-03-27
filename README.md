@@ -45,7 +45,7 @@ What you will learn:
 
 ---
 
-## Google Nexus 7 2012
+## Google/Asus Nexus 7 2012
 
 You can upgrade your Google Nexus 7 2012 tablet (3G or wifi) from stock to Android 7.1 Nougat / LineageOS 14.1.
   
@@ -141,7 +141,6 @@ What you will learn:
 - Unlock Motorola bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Format partitions to F2FS for better IO performances
 - Install Android 9 Pie
 - Get root access with Magisk
 
@@ -151,7 +150,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2.
 
-Tutorial is here (11.800+ views): <https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200>
+Tutorial is here (12.000+ views): <https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200>
 
 What you will learn:
 
@@ -169,7 +168,7 @@ What you will learn:
 
 You can unlock your Samsung Galaxy S I9000 to use it with any mobile network carrier.
 
-Tutorial is here (800+ views): <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
+Tutorial is here (956+ views): <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
 
 What you will learn:
 
@@ -197,7 +196,7 @@ What you will learn:
 
 You can upgrade your Galaxy S2 from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (111.600+ views): <https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601>
+Tutorial is here (114.000+ views): <https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601>
 
 What you will learn:
 
@@ -251,7 +250,7 @@ What you will learn:
 
 You can upgrade your SGS5 mini from any version to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (27.700+): <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
+Tutorial is here (29.000+): <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
 
 What you will learn:
 
@@ -266,9 +265,9 @@ What you will learn:
 
 ## Samsung Galaxy S6
 
-You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from any version to Android 10 Q / LineageOS.
+You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from any version to Android 10 Q / LineageOS 17.1.
 
-Tutorial is here (15.000+): <https://forum.xda-developers.com/galaxy-s6/general/guide-tutorial-howto-samsung-galaxy-s6-t4108425>
+Tutorial is here (19.000+): <https://forum.xda-developers.com/galaxy-s6/general/guide-tutorial-howto-samsung-galaxy-s6-t4108425>
 
 What you will learn:
 
@@ -285,18 +284,17 @@ What you will learn:
 
 ## Samsung Galaxy S7
 
-You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 10 Q / lineageOS.
+You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 11 R / lineageOS 18.1.
 
-Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
+Tutorial is here (1000+): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 10 Q
+- Install Android 11 R
 - Get root access and SafetyNet with Magisk
-- Change screen resolution for better battery
 - Set Dark mode for better battery
 
 ---
@@ -315,7 +313,7 @@ What you will learn:
 - Flash permanent recovery
 - Reformat partitions
 - Install Android 8.1
-- Get root access with built-in Root
+- Get root access with built-in root
 
 ---
 
