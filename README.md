@@ -45,6 +45,22 @@ What you will learn:
 
 ---
 
+## Google/LG Nexus 4
+
+You can upgrade your Google Nexus 4 (mako, LG E960) from stock Android 5.1.1 to Android 10 Q / LineageOS 17.1.
+  
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-stock-to-android-10.4256577/>
+
+What you will learn:
+
+- Unlock bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 10 Q
+- Get root access with Magisk
+
+---
+
 ## Google/Asus Nexus 7 2012
 
 You can upgrade your Google Nexus 7 2012 tablet (3G or wifi) from stock to Android 7.1 Nougat / LineageOS 14.1.
@@ -116,7 +132,7 @@ What you will learn:
 
 You can upgrade your LG G4 h815 from stock to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (10.000+ views): <https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698>
+Tutorial is here (11.000+ views): <https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698>
 
 What you will learn:
 
