@@ -56,6 +56,7 @@ What you will learn:
 - Unlock bootloader
 - Use fastboot
 - Install and use TWRP recovery
+- Repartition stock partition table
 - Install Android 10 Q
 - Get root access with Magisk
 
@@ -124,6 +125,24 @@ What you will learn:
 - Root stock tablet
 - Install and use TWRP recovery
 - Install Android 9 Pie and Google Apps
+- Get root access
+
+---
+
+## LG G3 D855
+
+You can upgrade your LG G3 d855 from stock to Android 11 R / LineageOS 18.1.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g3-lg-d855-stock-to-android-11-r-lineageos-18-1-with-all-files-included.4267175/>
+
+What you will learn:
+
+- Downgrade Android 6 to Android 5
+- Root LG G3 in 2021
+- Unlock LG bootloader
+- Install and use TWRP recovery
+- Install Android 11 R and Google Apps
+- Install Magisk
 - Get root access
 
 ---
