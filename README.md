@@ -79,6 +79,22 @@ What you will learn:
 
 ---
 
+## Google/Asus Nexus 7 2013
+
+You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 11 R / LineageOS 18.1.
+  
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-11.4275457/>
+
+What you will learn:
+
+- Unlock bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 11 R
+- Get root access with Magisk
+
+---
+
 ## HTC One M7
 
 You can upgrade your HTC One M7 from stock (Android 4.3) to Android 10 / LineageOS 17.1.
