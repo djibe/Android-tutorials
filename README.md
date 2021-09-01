@@ -5,6 +5,31 @@ in this section you will find my tutorials for upgrading your Android phones and
 These guides are detailed step-by-step for easier phone upgrade.  
 Enjoy, djibe.
 
+- [Android-tutorials](#android-tutorials)
+  - [Asus Transformer Prime TF201](#asus-transformer-prime-tf201)
+  - [Asus Transformer Pad TF300T](#asus-transformer-pad-tf300t)
+  - [Google/LG Nexus 4](#googlelg-nexus-4)
+  - [Google/Asus Nexus 7 2012](#googleasus-nexus-7-2012)
+  - [Google/Asus Nexus 7 2013](#googleasus-nexus-7-2013)
+  - [HTC One M7](#htc-one-m7)
+  - [HTC One M8](#htc-one-m8)
+  - [LG GPad 8.3 V500](#lg-gpad-83-v500)
+  - [LG G3 D855](#lg-g3-d855)
+  - [LG G4 H815 / H811](#lg-g4-h815--h811)
+  - [Motorola Moto G 4G/LTE 2013 Peregrine](#motorola-moto-g-4glte-2013-peregrine)
+  - [Samsung Galaxy Grand Prime G531F](#samsung-galaxy-grand-prime-g531f)
+  - [Samsung Galaxy S i9000](#samsung-galaxy-s-i9000)
+  - [Samsung Galaxy S2 i9100 or 9100p](#samsung-galaxy-s2-i9100-or-9100p)
+  - [Samsung Galaxy S3 i9300](#samsung-galaxy-s3-i9300)
+  - [Samsung Galaxy S4 i9505 (jfltexx)](#samsung-galaxy-s4-i9505-jfltexx)
+  - [Samsung Galaxy S5 mini G800F (kminilte/Exynos)](#samsung-galaxy-s5-mini-g800f-kminilteexynos)
+  - [Samsung Galaxy S6](#samsung-galaxy-s6)
+  - [Samsung Galaxy S7](#samsung-galaxy-s7)
+  - [Sony Xperia S](#sony-xperia-s)
+  - [Sony Xperia SP](#sony-xperia-sp)
+  - [Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy](#sony-xperia-tablet-z-ltepollux-or-wifipollux_windy)
+  - [Xiaomi Redmi Note 4/4X/mido (snapdragon SOC)](#xiaomi-redmi-note-44xmido-snapdragon-soc)
+
 ---
 
 ## Asus Transformer Prime TF201
@@ -406,7 +431,7 @@ What you will learn:
 
 ---
 
-## Xiaomi Redmi Note 4 (snapdragon SOC, codename mido)
+## Xiaomi Redmi Note 4/4X/mido (snapdragon SOC)
 
 You can upgrade your Xiaomi Redmi Note 4 from stock to Android 11 Q / LineageOS 18.1.
 
