@@ -37,7 +37,7 @@ Enjoy, djibe.
 
 You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (88.000+ views): <https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237>
+Tutorial is here (93.000+ views): <https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237>
 
 What you will learn:
 
@@ -57,7 +57,7 @@ What you will learn:
 
 You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (160.000+ views): <https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744>
+Tutorial is here (165.000+ views): <https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744>
 
 What you will learn:
 
@@ -75,7 +75,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 4 (mako, LG E960) from stock Android 5.1.1 to Android 10 Q / LineageOS 17.1.
   
-Tutorial is here (250+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-stock-to-android-10.4256577/>
+Tutorial is here (600+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-stock-to-android-10.4256577/>
 
 What you will learn:
 
@@ -92,7 +92,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2012 tablet (3G or wifi) from stock to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (2000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
+Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
 
 What you will learn:
 
@@ -109,7 +109,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 11 R / LineageOS 18.1.
   
-Tutorial is here (460+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-11.4275457/>
+Tutorial is here (2000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-11.4275457/>
 
 What you will learn:
 
@@ -126,7 +126,7 @@ What you will learn:
 
 You can upgrade your HTC One M7 from stock (Android 4.3) to Android 10 / LineageOS 17.1.
 
-Tutorial is here (26.000+ views): <https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366>
+Tutorial is here (27.000+ views): <https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366>
 
 What you will learn:
 
@@ -161,7 +161,7 @@ What you will learn:
 
 You can upgrade your LG GPad 8.3 V500 from stock to Android 9 Pie / crDroid 5.x
 
-Tutorial is here (16.000+ views): <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
+Tutorial is here (18.000+ views): <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
 
 What you will learn:
 
@@ -193,7 +193,7 @@ What you will learn:
 
 You can upgrade your LG G3 d855 from stock to Android 11 R / LineageOS 18.1.
 
-Tutorial is here (1000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g3-lg-d855-stock-to-android-11-r-lineageos-18-1-with-all-files-included.4267175/>
+Tutorial is here (2000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g3-lg-d855-stock-to-android-11-r-lineageos-18-1-with-all-files-included.4267175/>
 
 What you will learn:
 
@@ -212,7 +212,7 @@ What you will learn:
 
 You can upgrade your LG G4 h815 from stock to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (11.000+ views): <https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698>
+Tutorial is here (12.000+ views): <https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698>
 
 What you will learn:
 
@@ -230,7 +230,7 @@ What you will learn:
 
 You can upgrade your Motorola Moto G 4G from stock to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (11.000+ views): <https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234>
+Tutorial is here (12.000+ views): <https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234>
 
 What you will learn:
 
@@ -246,7 +246,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2.
 
-Tutorial is here (12.000+ views): <https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200>
+Tutorial is here (13.000+ views): <https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200>
 
 What you will learn:
 
@@ -275,7 +275,7 @@ What you will learn:
 
 You can upgrade your Galaxy S GT-I9000 from any version to Android 6 Marshmallow.
 
-Tutorial is here (2000+ views): <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-samsung-galaxy-s-t4115653>
+Tutorial is here (3000+ views): <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-samsung-galaxy-s-t4115653>
 
 What you will learn:
 
