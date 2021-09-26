@@ -14,6 +14,7 @@ Enjoy, djibe.
   - [HTC One M7](#htc-one-m7)
   - [HTC One M8](#htc-one-m8)
   - [LG GPad 8.3 V500](#lg-gpad-83-v500)
+  - [LG G2 D802](#lg-g2-d802)
   - [LG G3 D855](#lg-g3-d855)
   - [LG G4 H815 / H811](#lg-g4-h815--h811)
   - [Motorola Moto G 4G/LTE 2013 Peregrine](#motorola-moto-g-4glte-2013-peregrine)
@@ -167,6 +168,23 @@ What you will learn:
 - Root stock tablet
 - Install and use TWRP recovery
 - Install Android 9 Pie and Google Apps
+- Get root access
+
+---
+
+## LG G2 D802
+
+You can upgrade your LG G2 d802 from stock to Android 11 R / LineageOS 18.1.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g2-d802-stock-to-android-11.4339221/>
+
+What you will learn:
+
+- Upgrade Android 4.4.2 to Android 5
+- Root LG G3 in 2021
+- Install and use TWRP recovery
+- Install Android 11 R and Google Apps
+- Install Magisk
 - Get root access
 
 ---
