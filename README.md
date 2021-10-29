@@ -29,6 +29,7 @@ Enjoy, djibe.
   - [Sony Xperia S](#sony-xperia-s)
   - [Sony Xperia SP](#sony-xperia-sp)
   - [Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy](#sony-xperia-tablet-z-ltepollux-or-wifipollux_windy)
+  - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
   - [Xiaomi Redmi Note 4/4X/mido (snapdragon SOC)](#xiaomi-redmi-note-44xmido-snapdragon-soc)
 
 ---
@@ -446,6 +447,23 @@ What you will learn:
 - Get root access with Magisk
 - Flash permanent recovery with FOTAkernel
 - Overclock tablet
+
+---
+
+## Sony Xperia Z3 Compact
+
+You can upgrade your Sony Xperia Z3c from any version to Android 11 R / LineageOS 18.1.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z3-compact-stock-to-android-11.4354117/>
+
+What you will learn:
+
+- Unlock Sony bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 11 R
+- Install BitGapps
+- Get root access with Magisk
 
 ---
 
