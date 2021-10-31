@@ -23,6 +23,7 @@ Enjoy, djibe.
   - [Samsung Galaxy S2 i9100 or 9100p](#samsung-galaxy-s2-i9100-or-9100p)
   - [Samsung Galaxy S3 i9300](#samsung-galaxy-s3-i9300)
   - [Samsung Galaxy S4 i9505 (jfltexx)](#samsung-galaxy-s4-i9505-jfltexx)
+  - [Samsung Galaxy S5 (klte/Qualcomm)](#samsung-galaxy-s5-kltequalcomm)
   - [Samsung Galaxy S5 mini G800F (kminilte/Exynos)](#samsung-galaxy-s5-mini-g800f-kminilteexynos)
   - [Samsung Galaxy S6](#samsung-galaxy-s6)
   - [Samsung Galaxy S7](#samsung-galaxy-s7)
@@ -340,6 +341,22 @@ What you will learn:
 - Install Android 10 Q
 - Get root access with Magisk
 - Use Dark mode
+
+---
+
+## Samsung Galaxy S5 (klte/Qualcomm)
+
+You can upgrade your SGS5 from any version to Android 11 / LineageOS 18.1.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-11.4354951/>
+
+What you will learn:
+
+- Flash your phone with Odin
+- Backup IMEI/EFS partition and all partitions
+- Flash and use TWRP recovery
+- Install Android 11 R
+- Get root access with Magisk
 
 ---
 
