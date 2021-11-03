@@ -30,6 +30,7 @@ Enjoy, djibe.
   - [Sony Xperia S](#sony-xperia-s)
   - [Sony Xperia SP](#sony-xperia-sp)
   - [Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy](#sony-xperia-tablet-z-ltepollux-or-wifipollux_windy)
+  - [Sony Xperia Tablet Z2 LTE/Castor or Wifi/Castor_windy](#sony-xperia-tablet-z2-ltecastor-or-wificastor_windy)
   - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
   - [Xiaomi Redmi Note 4/4X/mido (snapdragon SOC)](#xiaomi-redmi-note-44xmido-snapdragon-soc)
 
@@ -450,7 +451,7 @@ What you will learn:
 
 ## Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy
 
-You can upgrade your Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy from any version to Android 9 Pie / LineageOS 16.
+You can upgrade your Sony Xperia Tablet Z LTE/Pollux or WiFi/Pollux_windy from any version to Android 9 Pie / LineageOS 16.
 
 Tutorial is here (44.000+ views): <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
 
@@ -464,6 +465,22 @@ What you will learn:
 - Get root access with Magisk
 - Flash permanent recovery with FOTAkernel
 - Overclock tablet
+
+---
+
+## Sony Xperia Tablet Z2 LTE/Castor or Wifi/Castor_windy
+
+You can upgrade your Sony Xperia Z2 Tablet LTE/Castor or WiFi/Castor_windy from any version to Android 11 R / LineageOS 18.1.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-tablet-stock-to-android-11.4356605/>
+
+What you will learn:
+
+- Unlock Sony bootloader
+- Use fastboot and adb
+- Install and use TWRP recovery
+- Install Android 11 R
+- Get root access with Magisk
 
 ---
 
