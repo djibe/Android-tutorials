@@ -399,16 +399,16 @@ What you will learn:
 
 ## Samsung Galaxy S7
 
-You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 11 R / lineageOS 18.1.
+You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 12 / lineageOS 19.
 
-Tutorial is here (2000+): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
+Tutorial is here (4000+): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 11 R
+- Install Android 12
 - Get root access and SafetyNet with Magisk
 - Set Dark mode for better battery
 
@@ -418,7 +418,7 @@ What you will learn:
 
 You can upgrade your Sony Xperia S (LT26i nozomi) from any version to Android 8.1 / nAOSP rom.
 
-Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-s-stock-to-android-8-1-oreo.4222141/>
+Tutorial is here (6000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-s-stock-to-android-8-1-oreo.4222141/>
 
 What you will learn:
 
@@ -436,7 +436,7 @@ What you will learn:
 
 You can upgrade your Sony Xperia SP (C5303 huashan) from any version to Android 10 Q / LineageOS 17.1.
 
-Tutorial is here (800+ views): <https://forum.xda-developers.com/xperia-sp/general/guide-tutorial-howto-sony-xperia-sp-t4181823>
+Tutorial is here (1000+ views): <https://forum.xda-developers.com/xperia-sp/general/guide-tutorial-howto-sony-xperia-sp-t4181823>
 
 What you will learn:
 
