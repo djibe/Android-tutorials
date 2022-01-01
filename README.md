@@ -23,16 +23,16 @@ Enjoy, djibe.
   - [Samsung Galaxy S2 i9100 or 9100p](#samsung-galaxy-s2-i9100-or-9100p)
   - [Samsung Galaxy S3 i9300](#samsung-galaxy-s3-i9300)
   - [Samsung Galaxy S4 i9505 (jfltexx)](#samsung-galaxy-s4-i9505-jfltexx)
-  - [Samsung Galaxy S5 (klte/Qualcomm)](#samsung-galaxy-s5-kltequalcomm)
+  - [Samsung Galaxy S5 (klte/Snapdragon)](#samsung-galaxy-s5-kltesnapdragon)
   - [Samsung Galaxy S5 mini G800F (kminilte/Exynos)](#samsung-galaxy-s5-mini-g800f-kminilteexynos)
   - [Samsung Galaxy S6](#samsung-galaxy-s6)
   - [Samsung Galaxy S7](#samsung-galaxy-s7)
   - [Sony Xperia S](#sony-xperia-s)
   - [Sony Xperia SP](#sony-xperia-sp)
   - [Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy](#sony-xperia-tablet-z-ltepollux-or-wifipollux_windy)
-  - [Sony Xperia Tablet Z2 LTE/Castor or Wifi/Castor_windy](#sony-xperia-tablet-z2-ltecastor-or-wificastor_windy)
+  - [Sony Xperia Tablet Z2 LTE/Castor or Wi-Fi/Castor_windy](#sony-xperia-tablet-z2-ltecastor-or-wi-ficastor_windy)
   - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
-  - [Xiaomi Redmi Note 4/4X/mido (snapdragon SOC)](#xiaomi-redmi-note-44xmido-snapdragon-soc)
+  - [Xiaomi Redmi Note 4/4X/mido (Snapdragon SOC)](#xiaomi-redmi-note-44xmido-snapdragon-soc)
 
 ---
 
@@ -40,7 +40,7 @@ Enjoy, djibe.
 
 You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (93.000+ views): <https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237>
+Tutorial is here (97.000+ views): <https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237>
 
 What you will learn:
 
@@ -60,17 +60,18 @@ What you will learn:
 
 You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (165.000+ views): <https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744>
+Tutorial is here (170.000+ views): <https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744>
 
 What you will learn:
 
-- Unlock Asus bootloader
+- Root TF300T
+- Use Mitmproxy
+- Unlock Asus bootloader in 2022
 - Use fastboot
 - Install and use TWRP recovery
 - Format partitions to F2FS for better IO performances
 - Install Android 7.1 Nougat
 - Get root access
-- Obtain Google mobile services (GMS) certification
 
 ---
 
@@ -330,22 +331,22 @@ What you will learn:
 
 ## Samsung Galaxy S4 i9505 (jfltexx)
 
-You can upgrade your SGS4 from any version to Android 10 Q / LineageOS 17.1.
+You can upgrade your SGS4 from any version to Android 11 R / LineageOS 18.1.
 
-Tutorial is here (2700+): <https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706>
+Tutorial is here (3000+): <https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706>
 
 What you will learn:
 
 - Flash TWRP recovery with Odin
-- UMake a nandroid backup with TWRP recovery
+- Make a Nandroid backup with TWRP recovery
 - Install a custom ROM with TWRP recovery
-- Install Android 10 Q
+- Install Android 11 R
 - Get root access with Magisk
 - Use Dark mode
 
 ---
 
-## Samsung Galaxy S5 (klte/Qualcomm)
+## Samsung Galaxy S5 (klte/Snapdragon)
 
 You can upgrade your SGS5 from any version to Android 11 / LineageOS 18.1.
 
@@ -363,9 +364,9 @@ What you will learn:
 
 ## Samsung Galaxy S5 mini G800F (kminilte/Exynos)
 
-You can upgrade your SGS5 mini from any version to Android 9 Pie / LineageOS 16.
+You can upgrade your SGS5 mini from Stock to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (30.000+): <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
+Tutorial is here (33.000+): <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
 
 What you will learn:
 
@@ -380,9 +381,9 @@ What you will learn:
 
 ## Samsung Galaxy S6
 
-You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from any version to Android 10 Q / LineageOS 17.1.
+You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from Stock to Android 10 Q / LineageOS 17.1.
 
-Tutorial is here (22.000+): <https://forum.xda-developers.com/galaxy-s6/general/guide-tutorial-howto-samsung-galaxy-s6-t4108425>
+Tutorial is here (27.000+): <https://forum.xda-developers.com/galaxy-s6/general/guide-tutorial-howto-samsung-galaxy-s6-t4108425>
 
 What you will learn:
 
@@ -399,7 +400,7 @@ What you will learn:
 
 ## Samsung Galaxy S7
 
-You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 12 / lineageOS 19.
+You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 12 / LineageOS 19.
 
 Tutorial is here (4000+): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
 
@@ -416,7 +417,7 @@ What you will learn:
 
 ## Sony Xperia S
 
-You can upgrade your Sony Xperia S (LT26i nozomi) from any version to Android 8.1 / nAOSP rom.
+You can upgrade your Sony Xperia S (LT26i/nozomi) from any version to Android 8.1 / nAOSP rom.
 
 Tutorial is here (6000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-s-stock-to-android-8-1-oreo.4222141/>
 
@@ -434,7 +435,7 @@ What you will learn:
 
 ## Sony Xperia SP
 
-You can upgrade your Sony Xperia SP (C5303 huashan) from any version to Android 10 Q / LineageOS 17.1.
+You can upgrade your Sony Xperia SP (C5303/huashan) from any version to Android 10 Q / LineageOS 17.1.
 
 Tutorial is here (1000+ views): <https://forum.xda-developers.com/xperia-sp/general/guide-tutorial-howto-sony-xperia-sp-t4181823>
 
@@ -468,7 +469,7 @@ What you will learn:
 
 ---
 
-## Sony Xperia Tablet Z2 LTE/Castor or Wifi/Castor_windy
+## Sony Xperia Tablet Z2 LTE/Castor or Wi-Fi/Castor_windy
 
 You can upgrade your Sony Xperia Z2 Tablet LTE/Castor or WiFi/Castor_windy from any version to Android 11 R / LineageOS 18.1.
 
@@ -501,7 +502,7 @@ What you will learn:
 
 ---
 
-## Xiaomi Redmi Note 4/4X/mido (snapdragon SOC)
+## Xiaomi Redmi Note 4/4X/mido (Snapdragon SOC)
 
 You can upgrade your Xiaomi Redmi Note 4 from stock to Android 11 Q / LineageOS 18.1.
 
