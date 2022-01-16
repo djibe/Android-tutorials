@@ -27,9 +27,11 @@ Enjoy, djibe.
   - [Samsung Galaxy S5 mini G800F (kminilte/Exynos)](#samsung-galaxy-s5-mini-g800f-kminilteexynos)
   - [Samsung Galaxy S6](#samsung-galaxy-s6)
   - [Samsung Galaxy S7](#samsung-galaxy-s7)
+  - [Samsung Galaxy Tab 2](#samsung-galaxy-tab-2)
+  - [Samsung Galaxy Tab S2](#samsung-galaxy-tab-s2)
   - [Sony Xperia S](#sony-xperia-s)
   - [Sony Xperia SP](#sony-xperia-sp)
-  - [Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy](#sony-xperia-tablet-z-ltepollux-or-wifipollux_windy)
+  - [Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux_windy](#sony-xperia-tablet-z-ltepollux-or-wi-fipollux_windy)
   - [Sony Xperia Tablet Z2 LTE/Castor or Wi-Fi/Castor_windy](#sony-xperia-tablet-z2-ltecastor-or-wi-ficastor_windy)
   - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
   - [Xiaomi Redmi Note 4/4X/mido (Snapdragon SOC)](#xiaomi-redmi-note-44xmido-snapdragon-soc)
@@ -415,6 +417,39 @@ What you will learn:
 
 ---
 
+## Samsung Galaxy Tab 2
+
+You can upgrade your Samsung Galaxy Tab 2 from stock to Android 8.1 Oreo.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-2-7-or-10-from-stock-to-android-8-1.4389219/>
+
+What you will learn:
+
+- Flash your tablet with Odin
+- Nandroid backup
+- Flash and use TWRP recovery
+- Install Android 8.1
+- Install BitGApps
+
+---
+
+## Samsung Galaxy Tab S2
+
+You can upgrade your Samsung Galaxy Tab S2 from stock to Android 10 R.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-s2-stock-to-android-10.4206561/>
+
+What you will learn:
+
+- Flash your tablet with Odin
+- Nandroid backup
+- Flash and use TWRP recovery
+- Install Android 10 / LineageOS 17.1
+- Install BitGApps
+- Install and use Magisk Root
+
+---
+
 ## Sony Xperia S
 
 You can upgrade your Sony Xperia S (LT26i/nozomi) from any version to Android 8.1 / nAOSP rom.
@@ -450,7 +485,7 @@ What you will learn:
 
 ---
 
-## Sony Xperia Tablet Z LTE/Pollux or Wifi/Pollux_windy
+## Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux_windy
 
 You can upgrade your Sony Xperia Tablet Z LTE/Pollux or WiFi/Pollux_windy from any version to Android 9 Pie / LineageOS 16.
 
