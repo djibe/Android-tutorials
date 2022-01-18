@@ -298,7 +298,7 @@ What you will learn:
 
 You can upgrade your Galaxy S2 from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (115.000+ views): <https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601>
+Tutorial is here (119.000+ views): <https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601>
 
 What you will learn:
 
@@ -318,7 +318,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S3 from any version to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (9000+ views): <https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788>
+Tutorial is here (10.000+ views): <https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788>
 
 What you will learn:
 
