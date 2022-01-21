@@ -34,7 +34,7 @@ Enjoy, djibe.
   - [Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux_windy](#sony-xperia-tablet-z-ltepollux-or-wi-fipollux_windy)
   - [Sony Xperia Tablet Z2 LTE/Castor or Wi-Fi/Castor_windy](#sony-xperia-tablet-z2-ltecastor-or-wi-ficastor_windy)
   - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
-  - [Xiaomi Mi 2 or Mi2s (Aries)](#xiaomi-mi-2-or-mi2s-aries)
+  - [Xiaomi Mi 2 or Mi 2s (Aries)](#xiaomi-mi-2-or-mi-2s-aries)
   - [Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)](#xiaomi-redmi-note-44x-mido-snapdragon-soc)
 
 ---
@@ -538,9 +538,9 @@ What you will learn:
 
 ---
 
-## Xiaomi Mi 2 or Mi2s (Aries)
+## Xiaomi Mi 2 or Mi 2s (Aries)
 
-You can upgrade your Xiaomi Mi 2 or Mi 2s from stock to Android 10 Q / Mokee 100.
+You can upgrade your Xiaomi Mi2 or Mi2s from stock to Android 10 Q / Mokee 100.
 
 Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-mi-2-2s-stock-to-android-10.4391775/>
 
