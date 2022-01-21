@@ -34,7 +34,8 @@ Enjoy, djibe.
   - [Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux_windy](#sony-xperia-tablet-z-ltepollux-or-wi-fipollux_windy)
   - [Sony Xperia Tablet Z2 LTE/Castor or Wi-Fi/Castor_windy](#sony-xperia-tablet-z2-ltecastor-or-wi-ficastor_windy)
   - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
-  - [Xiaomi Redmi Note 4/4X/mido (Snapdragon SOC)](#xiaomi-redmi-note-44xmido-snapdragon-soc)
+  - [Xiaomi Mi 2 or Mi2s (Aries)](#xiaomi-mi-2-or-mi2s-aries)
+  - [Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)](#xiaomi-redmi-note-44x-mido-snapdragon-soc)
 
 ---
 
@@ -537,9 +538,25 @@ What you will learn:
 
 ---
 
-## Xiaomi Redmi Note 4/4X/mido (Snapdragon SOC)
+## Xiaomi Mi 2 or Mi2s (Aries)
 
-You can upgrade your Xiaomi Redmi Note 4 from stock to Android 11 Q / LineageOS 18.1 (Android 12 available).
+You can upgrade your Xiaomi Mi 2 or Mi 2s from stock to Android 10 Q / Mokee 100.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-mi-2-2s-stock-to-android-10.4391775/>
+
+What you will learn:
+
+- Flash and use TWRP recovery
+- Use fastboot and adb
+- Repartition with parted
+- Install Android 10
+- Install BitGApps
+
+---
+
+## Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)
+
+You can upgrade your Xiaomi Redmi Note 4 from stock to Android 11 R / LineageOS 18.1 (Android 12 available).
 
 Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-redmi-note-4-snapdragon-stock-to-android-11-lineageos-18-1.4240159/>
 
@@ -549,6 +566,6 @@ What you will learn:
 - Use fastboot and adb
 - Install and use TWRP recovery
 - Install and use OrangeFox recovery
-- Install Android 11 Q
+- Install Android 11 R
 - Install FlameGApps
 - Get root access with Magisk
