@@ -5,6 +5,8 @@ in this section you will find my tutorials for upgrading your Android phones and
 These guides are detailed step-by-step for easier phone upgrade.  
 Enjoy, djibe.
 
+[Latest ROMs for all phones](https://docs.google.com/spreadsheets/d/1KjtfLDMgHpa8FiQOciSMRrB7s1nwcs6Ib2YNIzEmkjA/edit?usp=sharing)
+
 - [Android-tutorials](#android-tutorials)
   - [Asus Transformer Prime TF201](#asus-transformer-prime-tf201)
   - [Asus Transformer Pad TF300T](#asus-transformer-pad-tf300t)
@@ -27,6 +29,7 @@ Enjoy, djibe.
   - [Samsung Galaxy S5 mini G800F (kminilte/Exynos)](#samsung-galaxy-s5-mini-g800f-kminilteexynos)
   - [Samsung Galaxy S6](#samsung-galaxy-s6)
   - [Samsung Galaxy S7](#samsung-galaxy-s7)
+  - [Samsung Galaxy S7 Edge](#samsung-galaxy-s7-edge)
   - [Samsung Galaxy Tab 2](#samsung-galaxy-tab-2)
   - [Samsung Galaxy Tab S2](#samsung-galaxy-tab-s2)
   - [Sony Xperia S](#sony-xperia-s)
@@ -405,7 +408,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 12 / LineageOS 19.
 
-Tutorial is here (5000+): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
+Tutorial is here (6000+): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
 
 What you will learn:
 
@@ -414,6 +417,22 @@ What you will learn:
 - Flash and use TWRP recovery
 - Install Android 12
 - Get root access and SafetyNet with Magisk
+- Set Dark mode for better battery
+
+---
+
+## Samsung Galaxy S7 Edge
+
+You can upgrade your Samsung Galaxy S7 Edge (hero2lte/Exynos SOC) from stock to Android 12 / LineageOS 19.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-12.4404405/>
+
+What you will learn:
+
+- Flash your phone with Odin
+- Backup IMEI and Nandroid backup
+- Flash and use TWRP recovery
+- Install Android 12
 - Set Dark mode for better battery
 
 ---
@@ -438,7 +457,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy Tab S2 from stock to Android 10 R.
 
-Tutorial is here (14.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-s2-stock-to-android-10.4206561/>
+Tutorial is here (16.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-s2-stock-to-android-10.4206561/>
 
 What you will learn:
 
