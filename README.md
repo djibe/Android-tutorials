@@ -46,7 +46,7 @@ Enjoy, djibe.
 
 You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (98.000+ views): <https://forum.xda-developers.com/transformer-prime/help/guide-tutorial-asus-transformer-prime-t3486237>
+Tutorial is here (102.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-asus-transformer-prime-tf201-stock-to-android-7-1-nougat.3486237/>
 
 What you will learn:
 
@@ -66,7 +66,7 @@ What you will learn:
 
 You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (172.000+ views): <https://forum.xda-developers.com/transformer-tf300t/general/guide-asus-transformer-pad-tf300t-stock-t3554744>
+Tutorial is here (178.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-asus-transformer-pad-tf300t-any-version-to-android-7-1-nougat.3554744/>
 
 What you will learn:
 
@@ -83,9 +83,9 @@ What you will learn:
 
 ## Google/LG Nexus 4
 
-You can upgrade your Google Nexus 4 (mako, LG E960) from stock Android 5.1.1 to Android 10 Q / LineageOS 17.1.
+You can upgrade your Google Nexus 4 (mako, LG E960) from stock Android 5.1.1 to Android 11 / LineageOS 18.1.
   
-Tutorial is here (700+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-stock-to-android-10.4256577/>
+Tutorial is here (800+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-stock-to-android-10.4256577/>
 
 What you will learn:
 
@@ -102,7 +102,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2012 tablet (3G or wifi) from stock to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (6000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
+Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
 
 What you will learn:
 
@@ -117,16 +117,16 @@ What you will learn:
 
 ## Google/Asus Nexus 7 2013
 
-You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 11 R / LineageOS 18.1.
+You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 12L / LineageOS 19.1.
   
-Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-11.4275457/>
+Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-12.4275457/>
 
 What you will learn:
 
 - Unlock bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 11 R
+- Install Android 12L
 - Get root access with Magisk
 - Install and use Netflix SD and Disney+
 
@@ -134,16 +134,16 @@ What you will learn:
 
 ## HTC One M7
 
-You can upgrade your HTC One M7 from stock (Android 4.3) to Android 10 / LineageOS 17.1.
+You can upgrade your HTC One M7 from stock (Android 4.3) to Android 11 / LineageOS 18.1.
 
-Tutorial is here (28.000+ views): <https://forum.xda-developers.com/htc-one/general/guide-tutorial-htc-one-m7-stock-to-t3781366>
+Tutorial is here (29.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-htc-one-m7-stock-to-android-10-los-17-1.3781366/>
 
 What you will learn:
 
 - Unlock HTC bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 10
+- Install Android 11
 - Install Google Apps
 - Get root access with Magisk
 - Revert to stock ROM to desimlock/debrand phone
@@ -152,7 +152,7 @@ What you will learn:
 
 ## HTC One M8
 
-You can upgrade your HTC One M8 from stock to Android 10 / LineageOS 17.1.
+You can upgrade your HTC One M8 from stock to Android 11 / LineageOS 18.
 
 Tutorial is here (4000+): <https://forum.xda-developers.com/htc-one-m8/general/guide-tutorial-howto-htc-one-m8-stock-t4125467>
 
@@ -161,7 +161,7 @@ What you will learn:
 - Unlock HTC bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 10 with official LineageOS
+- Install Android 11
 - Install Google Apps
 - Get root access with Magisk
 
@@ -171,7 +171,7 @@ What you will learn:
 
 You can upgrade your LG GPad 8.3 V500 from stock to Android 9 Pie / crDroid 5.x
 
-Tutorial is here (22.000+ views): <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
+Tutorial is here (24.000+ views): <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
 
 What you will learn:
 
@@ -186,14 +186,14 @@ What you will learn:
 
 You can upgrade your LG G2 d802 from stock to Android 11 R / LineageOS 18.1.
 
-Tutorial is here (900+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g2-d802-stock-to-android-11.4339221/>
+Tutorial is here (2000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g2-d802-stock-to-android-11.4339221/>
 
 What you will learn:
 
 - Upgrade Android 4.4.2 to Android 5
-- Root LG G3 in 2021
+- Root LG G3 in 2022
 - Install and use TWRP recovery
-- Install Android 11 R and Google Apps
+- Install Android 11 and Google Apps
 - Install Magisk
 - Get root access
 
@@ -203,15 +203,15 @@ What you will learn:
 
 You can upgrade your LG G3 d855 from stock to Android 11 R / LineageOS 18.1.
 
-Tutorial is here (4000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g3-lg-d855-stock-to-android-11-r-lineageos-18-1-with-all-files-included.4267175/>
+Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g3-lg-d855-stock-to-android-11-r-lineageos-18-1-with-all-files-included.4267175/>
 
 What you will learn:
 
 - Downgrade Android 6 to Android 5
-- Root LG G3 in 2021
+- Root LG G3 in 2022
 - Unlock LG bootloader
 - Install and use TWRP recovery
-- Install Android 11 R and Google Apps
+- Install Android 11 and Google Apps
 - Install Magisk
 - Get root access
 - Install and use Netflix SD and Disney+
@@ -220,16 +220,16 @@ What you will learn:
 
 ## LG G4 H815 / H811
 
-You can upgrade your LG G4 h815 from stock to Android 9 Pie / LineageOS 16.
+You can upgrade your LG G4 h815 from stock to Android 10 / LineageOS 17.1.
 
-Tutorial is here (13.000+ views): <https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698>
+Tutorial is here (14.000+ views): <https://forum.xda-developers.com/g4/general/guide-tutorial-lg-g4-h815-version-to-t3879698>
 
 What you will learn:
 
 - Unlock LG bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 9 Pie and Google Apps
+- Install Android 10 and Google Apps
 - Install Magisk
 - Get root access
 - Bonus: Install SHRP recovery
@@ -238,7 +238,7 @@ What you will learn:
 
 ## Motorola Moto G 4G/LTE 2013 Peregrine
 
-You can upgrade your Motorola Moto G 4G from stock to Android 7.1 Nougat / LineageOS 14.1.
+You can upgrade your Motorola Moto G LTE from stock to Android 7.1 Nougat / LineageOS 14.1.
 
 Tutorial is here (12.000+ views): <https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234>
 
