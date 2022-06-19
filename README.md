@@ -575,7 +575,7 @@ What you will learn:
 
 ## Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)
 
-You can upgrade your Xiaomi Redmi Note 4 from stock to Android 11 R / LineageOS 18.1 (Android 12 available).
+You can upgrade your Xiaomi Redmi Note 4 from stock to Android 12.1 / LineageOS 19.1.
 
 Tutorial is here (10.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-redmi-note-4-snapdragon-stock-to-android-11-lineageos-18-1.4240159/>
 
@@ -584,7 +584,6 @@ What you will learn:
 - Unlock Xiaomi bootloader
 - Use fastboot and adb
 - Install and use TWRP recovery
-- Install and use OrangeFox recovery
-- Install Android 11 R
-- Install FlameGApps
+- Install Android 12
+- Install MindTheGApps
 - Get root access with Magisk
