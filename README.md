@@ -15,6 +15,7 @@ Enjoy, djibe.
   - [Google/Asus Nexus 7 2013](#googleasus-nexus-7-2013)
   - [HTC One M7](#htc-one-m7)
   - [HTC One M8](#htc-one-m8)
+  - [HTC One M9](#htc-one-m9)
   - [LG GPad 8.3 V500](#lg-gpad-83-v500)
   - [LG G2 D802](#lg-g2-d802)
   - [LG G3 D855](#lg-g3-d855)
@@ -162,6 +163,25 @@ What you will learn:
 - Use fastboot
 - Install and use TWRP recovery
 - Install Android 11
+- Install Google Apps
+- Get root access with Magisk
+
+---
+
+## HTC One M9
+
+You can upgrade your HTC One M9 from stock to Android 12 / LineageOS 19.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m9-any-model-from-stock-to-android-12.4471583/>
+
+What you will learn:
+
+- Flash HTC RUU (Rom Update Utility)
+- Upgrade to Android 7 Nougat
+- Unlock HTC bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 12
 - Install Google Apps
 - Get root access with Magisk
 
