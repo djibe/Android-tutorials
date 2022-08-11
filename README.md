@@ -579,7 +579,7 @@ What you will learn:
 
 ## Xiaomi Mi 2 or Mi 2s (Aries)
 
-You can upgrade your Xiaomi Mi2 or Mi2s from stock to Android 10 Q / Mokee 100.
+You can upgrade your Xiaomi Mi2 or Mi2s from stock to Android 11 / AOSP 11.
 
 Tutorial is here (700+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-mi-2-2s-stock-to-android-10.4391775/>
 
@@ -588,7 +588,7 @@ What you will learn:
 - Flash and use TWRP recovery
 - Use fastboot and adb
 - Repartition with parted
-- Install Android 10
+- Install Android 11
 - Install BitGApps
 
 ---
