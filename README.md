@@ -35,6 +35,7 @@ Enjoy, djibe.
   - [Samsung Galaxy Tab S2](#samsung-galaxy-tab-s2)
   - [Sony Xperia S](#sony-xperia-s)
   - [Sony Xperia SP](#sony-xperia-sp)
+  - [Sony Xperia Z2](#sony-xperia-z2)
   - [Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux_windy](#sony-xperia-tablet-z-ltepollux-or-wi-fipollux_windy)
   - [Sony Xperia Tablet Z2 LTE/Castor or Wi-Fi/Castor_windy](#sony-xperia-tablet-z2-ltecastor-or-wi-ficastor_windy)
   - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
@@ -120,7 +121,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 12L / LineageOS 19.1.
   
-Tutorial is here (12.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-12.4275457/>
+Tutorial is here (15.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-12.4275457/>
 
 What you will learn:
 
@@ -521,6 +522,22 @@ What you will learn:
 - Install and use TWRP recovery
 - Flash permanent recovery with FOTAkernel
 - Install Android 10 Q
+- Get root access with Magisk
+
+---
+
+## Sony Xperia Z2
+
+You can upgrade your Sony Xperia Z2 (sirius/D6502/D6503) from any version to Android 11 R / LineageOS 18.1.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-stock-to-android-11.4495087/#post-87457511>
+
+What you will learn:
+
+- Unlock Sony bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 11
 - Get root access with Magisk
 
 ---
