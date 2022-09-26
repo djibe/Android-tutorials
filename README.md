@@ -48,7 +48,7 @@ Enjoy, djibe.
 
 You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (105.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-asus-transformer-prime-tf201-stock-to-android-7-1-nougat.3486237/>
+Tutorial is here (108.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-asus-transformer-prime-tf201-stock-to-android-7-1-nougat.3486237/>
 
 What you will learn:
 
@@ -68,7 +68,7 @@ What you will learn:
 
 You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (183.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-asus-transformer-pad-tf300t-any-version-to-android-7-1-nougat.3554744/>
+Tutorial is here (191.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-asus-transformer-pad-tf300t-any-version-to-android-7-1-nougat.3554744/>
 
 What you will learn:
 
@@ -87,7 +87,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 4 (mako, LG E960) from stock Android 5.1.1 to Android 11 / LineageOS 18.1.
   
-Tutorial is here (1000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-from-stock-to-android-11.4256577/>
+Tutorial is here (2000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-from-stock-to-android-11.4256577/>
 
 What you will learn:
 
@@ -119,16 +119,17 @@ What you will learn:
 
 ## Google/Asus Nexus 7 2013
 
-You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 12L / LineageOS 19.1.
+You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 12.1 / LineageOS 19.1.
   
-Tutorial is here (15.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-12.4275457/>
+Tutorial is here (18.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-12.4275457/>
 
 What you will learn:
 
 - Unlock bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 12L
+- Install Android 12.1/12L
+- Install GApps
 - Get root access with Magisk
 - Install and use Netflix SD and Disney+
 
@@ -136,9 +137,9 @@ What you will learn:
 
 ## HTC One M7
 
-You can upgrade your HTC One M7 from stock (Android 4.3) to Android 11 / LineageOS 18.1.
+You can upgrade your HTC One M7 from Stock Android 4.3 to Android 11 / LineageOS 18.1.
 
-Tutorial is here (30.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-htc-one-m7-stock-to-android-10-los-17-1.3781366/>
+Tutorial is here (31.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m7-stock-to-android-11-lineageos-18-1.3781366/>
 
 What you will learn:
 
@@ -154,18 +155,20 @@ What you will learn:
 
 ## HTC One M8
 
-You can upgrade your HTC One M8 from stock to Android 11 / LineageOS 18.
+You can upgrade your HTC One M8 from stock to Android 12 / LineageOS 19.
 
-Tutorial is here (6000+): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m8-stock-to-android-11.4125467/>
+Tutorial is here (7000+): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m8-stock-to-android-12.4125467/>
 
 What you will learn:
 
 - Unlock HTC bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 11
+- Install Android 12.1/12L
 - Install Google Apps
 - Get root access with Magisk
+
+Android 13 is incoming !!!
 
 ---
 
@@ -192,7 +195,7 @@ What you will learn:
 
 You can upgrade your LG GPad 8.3 V500 from stock to Android 9 Pie / crDroid 5.x
 
-Tutorial is here (26.000+ views): <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
+Tutorial is here (29.000+ views): <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
 
 What you will learn:
 
@@ -205,9 +208,9 @@ What you will learn:
 
 ## LG G2 D802
 
-You can upgrade your LG G2 d802 from stock to Android 11 R / LineageOS 18.1.
+You can upgrade your LG G2 d802 from stock to Android 11 / LineageOS 18.
 
-Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g2-d802-stock-to-android-11.4339221/>
+Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g2-d802-stock-to-android-11.4339221/>
 
 What you will learn:
 
@@ -222,9 +225,9 @@ What you will learn:
 
 ## LG G3 D855
 
-You can upgrade your LG G3 d855 from stock to Android 11 R / LineageOS 18.1.
+You can upgrade your LG G3 d855 from stock to Android 11 / LineageOS 18.
 
-Tutorial is here (6000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g3-lg-d855-stock-to-android-11-r-lineageos-18-1-with-all-files-included.4267175/>
+Tutorial is here (7000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g3-d855-stock-to-android-11.4267175/>
 
 What you will learn:
 
@@ -241,16 +244,16 @@ What you will learn:
 
 ## LG G4 H815 / H811
 
-You can upgrade your LG G4 h815 from stock to Android 10 / LineageOS 17.1.
+You can upgrade your LG G4 h815 from stock to Android 11 / LineageOS 18.
 
-Tutorial is here (14.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g4-h811-h815-from-stock-to-android-10.3879698/>
+Tutorial is here (15.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g4-h811-h815-from-stock-to-android-11.3879698/>
 
 What you will learn:
 
 - Unlock LG bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 10 and Google Apps
+- Install Android 11 and Google Apps
 - Install Magisk
 - Get root access
 - Bonus: Install SHRP recovery
@@ -259,9 +262,9 @@ What you will learn:
 
 ## Motorola Moto G 4G/LTE 2013 Peregrine
 
-You can upgrade your Motorola Moto G LTE from stock to Android 7.1 Nougat / LineageOS 14.1.
+You can upgrade your Motorola Moto G LTE from stock to Android 9 / LineageOS 16.
 
-Tutorial is here (12.000+ views): <https://forum.xda-developers.com/moto-g/help/guide-tutorial-motorola-moto-g-4g-to-t3516234>
+Tutorial is here (13.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g-4g-peregrine-stock-to-android-9.3516234/>
 
 What you will learn:
 
@@ -306,7 +309,7 @@ What you will learn:
 
 You can upgrade your Galaxy S GT-I9000 from any version to Android 6 Marshmallow.
 
-Tutorial is here (5000+ views): <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-samsung-galaxy-s-t4115653>
+Tutorial is here (6000+ views): <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-samsung-galaxy-s-t4115653>
 
 What you will learn:
 
@@ -323,7 +326,7 @@ What you will learn:
 
 You can upgrade your Galaxy S2 from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (123.000+ views): <https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601>
+Tutorial is here (125.000+ views): <https://forum.xda-developers.com/galaxy-s2/help/guide-tutorial-samsung-galaxy-s2-i9100-t3538601>
 
 What you will learn:
 
@@ -337,13 +340,15 @@ What you will learn:
 - Overclock CPU
 - Obtain Google mobile services (GMS) certification
 
+TODO: style, update
+
 ---
 
 ## Samsung Galaxy S3 i9300
 
 You can upgrade your Samsung Galaxy S3 from any version to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (12.000+ views): <https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788>
+Tutorial is here (13.000+ views): <https://forum.xda-developers.com/galaxy-s3/help/guide-tutorial-samsung-galaxy-s3-i9300-t3491788>
 
 What you will learn:
 
@@ -353,6 +358,8 @@ What you will learn:
 - Fix Wifi
 - Get root access with Magisk
 - Use Dark mode
+
+TODO: style, update
 
 ---
 
@@ -367,24 +374,26 @@ What you will learn:
 - Flash TWRP recovery with Odin
 - Make a Nandroid backup with TWRP recovery
 - Install a custom ROM with TWRP recovery
-- Install Android 11 R
+- Install Android 11
 - Get root access with Magisk
 - Use Dark mode
+
+TODO: compatible models
 
 ---
 
 ## Samsung Galaxy S5 (klte/Snapdragon)
 
-You can upgrade your SGS5 from any version to Android 11 / LineageOS 18.1.
+You can upgrade your SGS5 from any version to Android 12 / LineageOS 19.
 
-Tutorial is here (4000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-11.4354951/>
+Tutorial is here (6000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-12.4354951/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI/EFS partition and all partitions
 - Flash and use TWRP recovery
-- Install Android 11 R
+- Install Android 12
 - Get root access with Magisk
 
 ---
@@ -393,7 +402,7 @@ What you will learn:
 
 You can upgrade your SGS5 mini from Stock to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (34.000+ views): <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
+Tutorial is here (35.000+ views): <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
 
 What you will learn:
 
@@ -408,16 +417,16 @@ What you will learn:
 
 ## Samsung Galaxy S6
 
-You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from Stock to Android 10 Q / LineageOS 17.1.
+You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from Stock to Android 11 / LineageOS 18.
 
-Tutorial is here (32.000+ views): <https://forum.xda-developers.com/galaxy-s6/general/guide-tutorial-howto-samsung-galaxy-s6-t4108425>
+Tutorial is here (33.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s6-sm-g920f-stock-to-android-10.4108425/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 10 Q
+- Install Android 11
 - Get root access and SafetyNet with Magisk
 - Change screen resolution for better battery
 - Set Dark mode for better battery
@@ -439,6 +448,8 @@ What you will learn:
 - Install Android 12
 - Get root access and SafetyNet with Magisk
 - Set Dark mode for better battery
+
+TODO: start here
 
 ---
 
