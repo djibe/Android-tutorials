@@ -438,7 +438,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 12 / LineageOS 19.
 
-Tutorial is here (9000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
+Tutorial is here (12.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
 
 What you will learn:
 
@@ -449,7 +449,7 @@ What you will learn:
 - Get root access and SafetyNet with Magisk
 - Set Dark mode for better battery
 
-TODO: start here
+Android 13 incoming !
 
 ---
 
@@ -457,7 +457,7 @@ TODO: start here
 
 You can upgrade your Samsung Galaxy S7 Edge (hero2lte/Exynos SOC) from stock to Android 12 / LineageOS 19.
 
-Tutorial is here (1000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-12.4404405/>
+Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-12.4404405/>
 
 What you will learn:
 
@@ -467,13 +467,15 @@ What you will learn:
 - Install Android 12
 - Set Dark mode for better battery
 
+Android 13 incoming !
+
 ---
 
 ## Samsung Galaxy Tab 2
 
 You can upgrade your Samsung Galaxy Tab 2 from stock to Android 8.1 Oreo.
 
-Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-2-7-or-10-from-stock-to-android-8-1.4389219/>
+Tutorial is here (6000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-2-7-or-10-from-stock-to-android-8-1.4389219/>
 
 What you will learn:
 
@@ -489,7 +491,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy Tab S2 from stock to Android 10 R.
 
-Tutorial is here (20.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-s2-stock-to-android-10.4206561/>
+Tutorial is here (25.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-s2-stock-to-android-10.4206561/>
 
 What you will learn:
 
@@ -506,7 +508,7 @@ What you will learn:
 
 You can upgrade your Sony Xperia S (LT26i/nozomi) from any version to Android 8.1 / nAOSP rom.
 
-Tutorial is here (10.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-s-stock-to-android-8-1-oreo.4222141/>
+Tutorial is here (12.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-s-stock-to-android-8-1-oreo.4222141/>
 
 What you will learn:
 
@@ -515,7 +517,7 @@ What you will learn:
 - Install and use TWRP recovery
 - Flash permanent recovery
 - Reformat partitions
-- Install Android 8.1
+- Install Android 8.1 Oreo
 - Get root access with built-in root
 
 ---
@@ -534,6 +536,8 @@ What you will learn:
 - Flash permanent recovery with FOTAkernel
 - Install Android 10 Q
 - Get root access with Magisk
+
+TODO: style
 
 ---
 
@@ -557,7 +561,7 @@ What you will learn:
 
 You can upgrade your Sony Xperia Tablet Z LTE/Pollux or WiFi/Pollux_windy from any version to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (52.000+ views): <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
+Tutorial is here (54.000+ views): <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
 
 What you will learn:
 
@@ -576,7 +580,7 @@ What you will learn:
 
 You can upgrade your Sony Xperia Z2 Tablet LTE/Castor or WiFi/Castor_windy from any version to Android 11 R / LineageOS 18.1.
 
-Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-tablet-stock-to-android-11.4356605/>
+Tutorial is here (11.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-tablet-stock-to-android-11.4356605/>
 
 What you will learn:
 
@@ -609,7 +613,7 @@ What you will learn:
 
 You can upgrade your Xiaomi Mi2 or Mi2s from stock to Android 11 / AOSP 11.
 
-Tutorial is here (700+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-mi-2-2s-stock-to-android-10.4391775/>
+Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-mi-2-2s-stock-to-android-10.4391775/>
 
 What you will learn:
 
@@ -619,19 +623,21 @@ What you will learn:
 - Install Android 11
 - Install BitGApps
 
+TODO: Android 11
+
 ---
 
 ## Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)
 
-You can upgrade your Xiaomi Redmi Note 4 from stock to Android 12.1 / LineageOS 19.1.
+You can upgrade your Xiaomi Redmi Note 4 from stock to Android 12 / LineageOS 19.1.
 
-Tutorial is here (10.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-redmi-note-4-snapdragon-stock-to-android-11-lineageos-18-1.4240159/>
+Tutorial is here (13.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-redmi-note-4-snapdragon-stock-to-android-11-lineageos-18-1.4240159/>
 
 What you will learn:
 
 - Unlock Xiaomi bootloader
 - Use fastboot and adb
 - Install and use TWRP recovery
-- Install Android 12
+- Install Android 12.1
 - Install MindTheGApps
 - Get root access with Magisk
