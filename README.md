@@ -20,7 +20,8 @@ Enjoy, djibe.
   - [LG G2 D802](#lg-g2-d802)
   - [LG G3 D855](#lg-g3-d855)
   - [LG G4 H815 / H811](#lg-g4-h815--h811)
-  - [Motorola Moto G 4G/LTE 2013 Peregrine](#motorola-moto-g-4glte-2013-peregrine)
+  - [Motorola Moto G 4G/LTE 2013 peregrine](#motorola-moto-g-4glte-2013-peregrine)
+  - [Motorola Moto G5 cedric](#motorola-moto-g5-cedric)
   - [Samsung Galaxy Grand Prime G531F](#samsung-galaxy-grand-prime-g531f)
   - [Samsung Galaxy S i9000](#samsung-galaxy-s-i9000)
   - [Samsung Galaxy S2 i9100 or 9100p](#samsung-galaxy-s2-i9100-or-9100p)
@@ -36,8 +37,8 @@ Enjoy, djibe.
   - [Sony Xperia S](#sony-xperia-s)
   - [Sony Xperia SP](#sony-xperia-sp)
   - [Sony Xperia Z2](#sony-xperia-z2)
-  - [Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux_windy](#sony-xperia-tablet-z-ltepollux-or-wi-fipollux_windy)
-  - [Sony Xperia Tablet Z2 LTE/Castor or Wi-Fi/Castor_windy](#sony-xperia-tablet-z2-ltecastor-or-wi-ficastor_windy)
+  - [Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux\_windy](#sony-xperia-tablet-z-ltepollux-or-wi-fipollux_windy)
+  - [Sony Xperia Tablet Z2 LTE/Castor or Wi-Fi/Castor\_windy](#sony-xperia-tablet-z2-ltecastor-or-wi-ficastor_windy)
   - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
   - [Xiaomi Mi 2 or Mi 2s (Aries)](#xiaomi-mi-2-or-mi-2s-aries)
   - [Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)](#xiaomi-redmi-note-44x-mido-snapdragon-soc)
@@ -260,7 +261,7 @@ What you will learn:
 
 ---
 
-## Motorola Moto G 4G/LTE 2013 Peregrine
+## Motorola Moto G 4G/LTE 2013 peregrine
 
 You can upgrade your Motorola Moto G LTE from stock to Android 9 / LineageOS 16.
 
@@ -273,6 +274,22 @@ What you will learn:
 - Install and use TWRP recovery
 - Install Android 9 Pie
 - Get root access with Magisk
+
+---
+
+## Motorola Moto G5 cedric
+
+You can upgrade your Motorola Moto G5 from stock to Android 11 / LineageOS 18.1.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g5-stock-to-android-11.4524049/>
+
+What you will learn:
+
+- Unlock Motorola bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Flash latest modem
+- Install Android 11 and Google Apps
 
 ---
 
