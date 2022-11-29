@@ -17,11 +17,12 @@ Enjoy, djibe.
   - [HTC One M8](#htc-one-m8)
   - [HTC One M9](#htc-one-m9)
   - [LG GPad 8.3 V500](#lg-gpad-83-v500)
-  - [LG G2 D802](#lg-g2-d802)
+  - [LG G2 (D802)](#lg-g2-d802)
   - [LG G3 D855](#lg-g3-d855)
   - [LG G4 H815 / H811](#lg-g4-h815--h811)
-  - [Motorola Moto G 4G/LTE 2013 peregrine](#motorola-moto-g-4glte-2013-peregrine)
-  - [Motorola Moto G5 cedric](#motorola-moto-g5-cedric)
+  - [Motorola Moto G 4G/LTE 2013 (peregrine)](#motorola-moto-g-4glte-2013-peregrine)
+  - [Motorola Moto G5 (cedric)](#motorola-moto-g5-cedric)
+  - [Nvidia Shield Tablet K1 (shieldtablet)](#nvidia-shield-tablet-k1-shieldtablet)
   - [Samsung Galaxy Grand Prime G531F](#samsung-galaxy-grand-prime-g531f)
   - [Samsung Galaxy S i9000](#samsung-galaxy-s-i9000)
   - [Samsung Galaxy S2 i9100 or 9100p](#samsung-galaxy-s2-i9100-or-9100p)
@@ -207,7 +208,7 @@ What you will learn:
 
 ---
 
-## LG G2 D802
+## LG G2 (D802)
 
 You can upgrade your LG G2 d802 from stock to Android 11 / LineageOS 18.
 
@@ -261,7 +262,7 @@ What you will learn:
 
 ---
 
-## Motorola Moto G 4G/LTE 2013 peregrine
+## Motorola Moto G 4G/LTE 2013 (peregrine)
 
 You can upgrade your Motorola Moto G LTE from stock to Android 9 / LineageOS 16.
 
@@ -277,7 +278,7 @@ What you will learn:
 
 ---
 
-## Motorola Moto G5 cedric
+## Motorola Moto G5 (cedric)
 
 You can upgrade your Motorola Moto G5 from stock to Android 11 / LineageOS 18.1.
 
@@ -288,8 +289,24 @@ What you will learn:
 - Unlock Motorola bootloader
 - Use fastboot
 - Install and use TWRP recovery
+- Remove bootloader unlock warning
 - Flash latest modem
 - Install Android 11 and Google Apps
+
+---
+
+## Nvidia Shield Tablet K1 (shieldtablet)
+
+You can upgrade your Nvidia Shield Tablet K1 from stock to Android 9 / LineageOS 16.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-nvidia-shield-tablet-k1-stock-to-android-9.4524451/>
+
+What you will learn:
+
+- Unlock Nvidia bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 9 and Google Apps
 
 ---
 
