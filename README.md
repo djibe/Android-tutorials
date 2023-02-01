@@ -420,7 +420,7 @@ TODO: compatible models
 
 You can upgrade your SGS5 from any version to Android 12 / LineageOS 19.
 
-Tutorial is here (6000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-12.4354951/>
+Tutorial is here (7000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-12.4354951/>
 
 What you will learn:
 
@@ -429,6 +429,8 @@ What you will learn:
 - Flash and use TWRP recovery
 - Install Android 12
 - Get root access with Magisk
+
+TODO: Android 13 incoming
 
 ---
 
@@ -470,9 +472,9 @@ What you will learn:
 
 ## Samsung Galaxy S7
 
-You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 12 / LineageOS 19.
+You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 13 / LineageOS 20.
 
-Tutorial is here (12.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-10.4201187/>
+Tutorial is here (14.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-13.4201187/>
 
 What you will learn:
 
@@ -482,8 +484,6 @@ What you will learn:
 - Install Android 12
 - Get root access and SafetyNet with Magisk
 - Set Dark mode for better battery
-
-Android 13 incoming !
 
 ---
 
