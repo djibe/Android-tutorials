@@ -489,19 +489,17 @@ What you will learn:
 
 ## Samsung Galaxy S7 Edge
 
-You can upgrade your Samsung Galaxy S7 Edge (hero2lte/Exynos SOC) from stock to Android 12 / LineageOS 19.
+You can upgrade your Samsung Galaxy S7 Edge (hero2lte/Exynos SOC) from stock to Android 13 / LineageOS 20.
 
-Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-12.4404405/>
+Tutorial is here (6000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-13.4404405/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 12
+- Install Android 13
 - Set Dark mode for better battery
-
-Android 13 incoming !
 
 ---
 
