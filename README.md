@@ -16,6 +16,7 @@ Enjoy, djibe.
   - [HTC One M7](#htc-one-m7)
   - [HTC One M8](#htc-one-m8)
   - [HTC One M9](#htc-one-m9)
+  - [Huawei Honor 5X (kiwi)](#huawei-honor-5x-kiwi)
   - [LG GPad 8.3 V500](#lg-gpad-83-v500)
   - [LG G2 (D802)](#lg-g2-d802)
   - [LG G3 D855](#lg-g3-d855)
@@ -191,6 +192,23 @@ What you will learn:
 - Install Android 12
 - Install Google Apps
 - Get root access with Magisk
+
+---
+
+## Huawei Honor 5X (kiwi)
+
+You can upgrade your Huawei Honor 5X from stock to Android 10 / LineageOS 17.1.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-huawei-honor-5x-from-stock-to-android-10.4563855/>
+
+What you will learn:
+
+- Unlock Honor 5X bootloader for $4
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 10 and Google Apps
+- Get root access with Magisk
+- Use Netflix and Disney+
 
 ---
 
