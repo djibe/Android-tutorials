@@ -21,6 +21,7 @@ Enjoy, djibe.
   - [LG G3 D855](#lg-g3-d855)
   - [LG G4 H815 / H811](#lg-g4-h815--h811)
   - [Motorola Moto G 4G/LTE 2013 (peregrine)](#motorola-moto-g-4glte-2013-peregrine)
+  - [Motorola Moto G3 (osprey/merlin)](#motorola-moto-g3-ospreymerlin)
   - [Motorola Moto G5 (cedric)](#motorola-moto-g5-cedric)
   - [Nvidia Shield Tablet K1 (shieldtablet)](#nvidia-shield-tablet-k1-shieldtablet)
   - [Samsung Galaxy Grand Prime G531F](#samsung-galaxy-grand-prime-g531f)
@@ -275,6 +276,22 @@ What you will learn:
 - Install and use TWRP recovery
 - Install Android 9 Pie
 - Get root access with Magisk
+
+---
+
+## Motorola Moto G3 (osprey/merlin)
+
+You can upgrade your Motorola Moto G3 from stock to Android 12.1 / LineageOS 19.1.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g3-from-stock-to-android-12.4563839/>
+
+What you will learn:
+
+- Unlock Motorola bootloader
+- Use fastboot
+- Install and use TWRP recovery
+- Install Android 12 and Google Apps
+- Use Netflix and Disney+
 
 ---
 
