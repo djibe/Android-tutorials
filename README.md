@@ -303,7 +303,7 @@ What you will learn:
 
 You can upgrade your Motorola Moto G3 from stock to Android 12.1 / LineageOS 19.1.
 
-Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g3-from-stock-to-android-12.4563839/>
+Tutorial is here (130 views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g3-from-stock-to-android-12.4563839/>
 
 What you will learn:
 
@@ -320,7 +320,7 @@ What you will learn:
 
 You can upgrade your Motorola Moto G5 from stock to Android 11 / LineageOS 18.1.
 
-Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g5-stock-to-android-11.4524049/>
+Tutorial is here (860 views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g5-stock-to-android-11.4524049/>
 
 What you will learn:
 
@@ -519,7 +519,7 @@ What you will learn:
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 12
+- Install Android 13
 - Get root access and SafetyNet with Magisk
 - Set Dark mode for better battery
 
@@ -615,7 +615,7 @@ TODO: style
 
 You can upgrade your Sony Xperia Z2 (sirius/D6502/D6503) from any version to Android 11 R / LineageOS 18.1.
 
-Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-stock-to-android-11.4495087/#post-87457511>
+Tutorial is here (446 views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-stock-to-android-11.4495087/#post-87457511>
 
 What you will learn:
 
