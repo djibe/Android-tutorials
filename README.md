@@ -124,19 +124,19 @@ What you will learn:
 
 ## Google/Asus Nexus 7 2013
 
-You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 12.1 / LineageOS 19.1.
+You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 13 / LineageOS 20.
   
-Tutorial is here (26.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-12.4275457/>
+Tutorial is here (26.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-13.4275457/>
 
 What you will learn:
 
 - Unlock bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 12.1/12L
+- Install Android 13
 - Install GApps
 - Get root access with Magisk
-- Install and use Netflix SD and Disney+
+- Install and use Netflix and Disney+
 
 ---
 
