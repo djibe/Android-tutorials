@@ -35,6 +35,7 @@ Enjoy, djibe.
   - [Samsung Galaxy S6](#samsung-galaxy-s6)
   - [Samsung Galaxy S7](#samsung-galaxy-s7)
   - [Samsung Galaxy S7 Edge](#samsung-galaxy-s7-edge)
+  - [Samsung Galaxy S8](#samsung-galaxy-s8)
   - [Samsung Galaxy Tab 2](#samsung-galaxy-tab-2)
   - [Samsung Galaxy Tab S2](#samsung-galaxy-tab-s2)
   - [Sony Xperia S](#sony-xperia-s)
@@ -530,6 +531,22 @@ What you will learn:
 You can upgrade your Samsung Galaxy S7 Edge (hero2lte/Exynos SOC) from stock to Android 13 / LineageOS 20.
 
 Tutorial is here (7000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-13.4404405/>
+
+What you will learn:
+
+- Flash your phone with Odin
+- Backup IMEI and Nandroid backup
+- Flash and use TWRP recovery
+- Install Android 13
+- Set Dark mode for better battery
+
+---
+
+## Samsung Galaxy S8
+
+You can upgrade your Samsung Galaxy S8 (dreamtlte/Exynos SOC) from stock to Android 13 / LineageOS 20.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s8-stock-to-android-13.4599235/>
 
 What you will learn:
 
