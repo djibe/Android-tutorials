@@ -35,7 +35,7 @@ Enjoy, djibe.
   - [Samsung Galaxy S6](#samsung-galaxy-s6)
   - [Samsung Galaxy S7](#samsung-galaxy-s7)
   - [Samsung Galaxy S7 Edge](#samsung-galaxy-s7-edge)
-  - [Samsung Galaxy S8](#samsung-galaxy-s8)
+  - [Samsung Galaxy S8 and S8+](#samsung-galaxy-s8-and-s8)
   - [Samsung Galaxy Tab 2](#samsung-galaxy-tab-2)
   - [Samsung Galaxy Tab S2](#samsung-galaxy-tab-s2)
   - [Sony Xperia S](#sony-xperia-s)
@@ -542,9 +542,9 @@ What you will learn:
 
 ---
 
-## Samsung Galaxy S8
+## Samsung Galaxy S8 and S8+
 
-You can upgrade your Samsung Galaxy S8 (dreamtlte/Exynos SOC) from stock to Android 13 / LineageOS 20.
+You can upgrade your Samsung Galaxy S8 (dreamtlte/Exynos SOC) and S8+ (dream2lte) from stock to Android 13 / LineageOS 20.
 
 Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s8-stock-to-android-13.4599235/>
 
