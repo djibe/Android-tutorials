@@ -25,6 +25,7 @@ Enjoy, djibe.
   - [Motorola Moto G3 (osprey/merlin)](#motorola-moto-g3-ospreymerlin)
   - [Motorola Moto G5 (cedric)](#motorola-moto-g5-cedric)
   - [Nvidia Shield Tablet K1 (shieldtablet)](#nvidia-shield-tablet-k1-shieldtablet)
+  - [Samsung Galaxy Note 3](#samsung-galaxy-note-3)
   - [Samsung Galaxy Grand Prime G531F](#samsung-galaxy-grand-prime-g531f)
   - [Samsung Galaxy S i9000](#samsung-galaxy-s-i9000)
   - [Samsung Galaxy S2 i9100 or 9100p](#samsung-galaxy-s2-i9100-or-9100p)
@@ -349,6 +350,23 @@ What you will learn:
 
 ---
 
+## Samsung Galaxy Note 3
+
+You can upgrade your Samsung Galaxy Note 3 (hlte) from stock to Android 12.1 / LineageOS 19.1.
+
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-note-3-stock-to-android-12-1.4628405/#post-89014513>
+
+What you will learn:
+
+- Flash your phone with Odin
+- Backup IMEI and Nandroid backup
+- Flash and use TWRP recovery
+- Install Android 12
+- Get root access and SafetyNet with Magisk
+- Set Dark mode for better battery
+
+---
+
 ## Samsung Galaxy Grand Prime G531F
 
 You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2.
@@ -457,19 +475,17 @@ TODO: compatible models
 
 ## Samsung Galaxy S5 (klte/Snapdragon)
 
-You can upgrade your SGS5 from any version to Android 12 / LineageOS 19.
+You can upgrade your SGS5 from any version to Android 13 / LineageOS 20.
 
-Tutorial is here (9000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-12.4354951/>
+Tutorial is here (12.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-12.4354951/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI/EFS partition and all partitions
 - Flash and use TWRP recovery
-- Install Android 12
+- Install Android 13
 - Get root access with Magisk
-
-TODO: Android 13 incoming
 
 ---
 
@@ -546,7 +562,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S8 (dreamtlte/Exynos SOC) and S8+ (dream2lte) from stock to Android 13 / LineageOS 20.
 
-Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s8-stock-to-android-13.4599235/>
+Tutorial is here (1000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s8-stock-to-android-13.4599235/>
 
 What you will learn:
 
