@@ -508,16 +508,16 @@ What you will learn:
 
 ## Samsung Galaxy S6
 
-You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from Stock to Android 11 / LineageOS 18.
+You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from Stock to Android 12 / LineageOS 19.
 
-Tutorial is here (36.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s6-sm-g920f-stock-to-android-10.4108425/>
+Tutorial is here (38.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s6-sm-g920f-stock-to-android-10.4108425/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 11
+- Install Android 12
 - Get root access and SafetyNet with Magisk
 - Change screen resolution for better battery
 - Set Dark mode for better battery
