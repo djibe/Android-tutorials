@@ -203,7 +203,7 @@ What you will learn:
 
 You can upgrade your Huawei Honor 5X from stock to Android 10 / LineageOS 17.1.
 
-Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-huawei-honor-5x-from-stock-to-android-10.4563855/>
+Tutorial is here (4000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-huawei-honor-5x-from-stock-to-android-10.4563855/>
 
 What you will learn:
 
@@ -212,8 +212,7 @@ What you will learn:
 - Install and use TWRP recovery
 - Install Android 10 and Google Apps
 - Get root access with Magisk
-- Pass SafetyNet
-- Use Netflix and Disney+
+- Pass SafetyNet to use Netflix and Disney+
 
 ---
 
@@ -478,7 +477,7 @@ TODO: style, update
 
 You can upgrade your SGS4 from any version to Android 11 R / LineageOS 18.1.
 
-Tutorial is here (5000+): <https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706>
+Tutorial is here (6000+): <https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706>
 
 What you will learn:
 
@@ -497,7 +496,7 @@ TODO: compatible models
 
 You can upgrade your SGS5 from any version to Android 13 / LineageOS 20.
 
-Tutorial is here (12.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-12.4354951/>
+Tutorial is here (13.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-12.4354951/>
 
 What you will learn:
 
@@ -513,7 +512,7 @@ What you will learn:
 
 You can upgrade your SGS5 mini from Stock to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (36.000+ views): <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
+Tutorial is here (37.000+ views): <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
 
 What you will learn:
 
@@ -530,7 +529,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from Stock to Android 12 / LineageOS 19.
 
-Tutorial is here (38.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s6-sm-g920f-stock-to-android-10.4108425/>
+Tutorial is here (39.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s6-sm-g920f-stock-to-android-10.4108425/>
 
 What you will learn:
 
@@ -549,7 +548,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 13 / LineageOS 20.
 
-Tutorial is here (16.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-13.4201187/>
+Tutorial is here (21.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-13.4201187/>
 
 What you will learn:
 
@@ -566,7 +565,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S7 Edge (hero2lte/Exynos SOC) from stock to Android 13 / LineageOS 20.
 
-Tutorial is here (7000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-13.4404405/>
+Tutorial is here (11.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-13.4404405/>
 
 What you will learn:
 
@@ -582,7 +581,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S8 (dreamtlte/Exynos SOC) and S8+ (dream2lte) from stock to Android 13 / LineageOS 20.
 
-Tutorial is here (1000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s8-stock-to-android-13.4599235/>
+Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s8-stock-to-android-13.4599235/>
 
 What you will learn:
 
@@ -599,7 +598,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy Tab 2 from stock to Android 8.1 Oreo.
 
-Tutorial is here (17.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-2-7-or-10-from-stock-to-android-8-1.4389219/>
+Tutorial is here (33.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-2-7-or-10-from-stock-to-android-8-1.4389219/>
 
 What you will learn:
 
@@ -615,7 +614,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy Tab S2 from stock to Android 10 R.
 
-Tutorial is here (35.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-s2-stock-to-android-10.4206561/>
+Tutorial is here (46.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-s2-stock-to-android-10.4206561/>
 
 What you will learn:
 
@@ -632,7 +631,7 @@ What you will learn:
 
 You can upgrade your Sony Xperia S (LT26i/nozomi) from any version to Android 8.1 / nAOSP rom.
 
-Tutorial is here (12.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-s-stock-to-android-8-1-oreo.4222141/>
+Tutorial is here (15.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-s-stock-to-android-8-1-oreo.4222141/>
 
 What you will learn:
 
@@ -650,7 +649,7 @@ What you will learn:
 
 You can upgrade your Sony Xperia SP (C5303/huashan) from any version to Android 10 Q / LineageOS 17.1.
 
-Tutorial is here (2000+ views): <https://forum.xda-developers.com/xperia-sp/general/guide-tutorial-howto-sony-xperia-sp-t4181823>
+Tutorial is here (3000+ views): <https://forum.xda-developers.com/xperia-sp/general/guide-tutorial-howto-sony-xperia-sp-t4181823>
 
 What you will learn:
 
@@ -667,9 +666,9 @@ TODO: style
 
 ## Sony Xperia Z2
 
-You can upgrade your Sony Xperia Z2 (sirius/D6502/D6503) from any version to Android 11 R / LineageOS 18.1.
+You can upgrade your Sony Xperia Z2 (sirius/D6502/D6503) from any version to Android 11 / LineageOS 18.1.
 
-Tutorial is here (446 views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-stock-to-android-11.4495087/#post-87457511>
+Tutorial is here (1000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-stock-to-android-11.4495087/#post-87457511>
 
 What you will learn:
 
@@ -683,9 +682,9 @@ What you will learn:
 
 ## Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux_windy
 
-You can upgrade your Sony Xperia Tablet Z LTE/Pollux or WiFi/Pollux_windy from any version to Android 9 Pie / LineageOS 16.
+You can upgrade your Sony Xperia Tablet Z LTE/Pollux or WiFi/Pollux_windy from any version to Android 9 Pie / LineageOS 16 (or even Android 13).
 
-Tutorial is here (57.000+ views): <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
+Tutorial is here (62.000+ views): <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
 
 What you will learn:
 
@@ -702,9 +701,9 @@ What you will learn:
 
 ## Sony Xperia Z2 Tablet LTE/Castor or Wi-Fi/Castor_windy
 
-You can upgrade your Sony Xperia Z2 Tablet LTE/Castor or WiFi/Castor_windy from any version to Android 11 R / LineageOS 18.1.
+You can upgrade your Sony Xperia Z2 Tablet LTE/Castor or WiFi/Castor_windy from any version to Android 11 / LineageOS 18.1.
 
-Tutorial is here (14.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-tablet-stock-to-android-11.4356605/>
+Tutorial is here (19.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-tablet-stock-to-android-11.4356605/>
 
 What you will learn:
 
@@ -718,9 +717,9 @@ What you will learn:
 
 ## Sony Xperia Z4 Tablet LTE/karin  or Wi-Fi/karin_windy
 
-You can upgrade your Sony Xperia Z2 Tablet LTE/karin or WiFi/karin_windy from any version to Android 11 R / LineageOS 18.1.
+You can upgrade your Sony Xperia Z4 Tablet LTE/karin or WiFi/karin_windy from any version to Android 11 / LineageOS 18.1.
 
-Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z4-tablet-stock-to-android-11.4567917/>
+Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z4-tablet-stock-to-android-11.4567917/>
 
 What you will learn:
 
@@ -735,9 +734,9 @@ What you will learn:
 
 ## Sony Xperia Z3 Compact
 
-You can upgrade your Sony Xperia Z3c from any version to Android 11 R / LineageOS 18.1.
+You can upgrade your Sony Xperia Z3c from any version to Android 11 / LineageOS 18.1.
 
-Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z3-compact-stock-to-android-11.4354117/>
+Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z3-compact-stock-to-android-11.4354117/>
 
 What you will learn:
 
