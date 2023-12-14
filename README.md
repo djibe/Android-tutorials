@@ -25,6 +25,7 @@ Enjoy, djibe.
   - [Motorola Moto G3 (osprey/merlin)](#motorola-moto-g3-ospreymerlin)
   - [Motorola Moto G5 (cedric)](#motorola-moto-g5-cedric)
   - [Nvidia Shield Tablet K1 (shieldtablet)](#nvidia-shield-tablet-k1-shieldtablet)
+  - [OnePlus OnePlus 2](#oneplus-oneplus-2)
   - [Samsung Galaxy Note 3](#samsung-galaxy-note-3)
   - [Samsung Galaxy Grand Prime G531F](#samsung-galaxy-grand-prime-g531f)
   - [Samsung Galaxy S i9000](#samsung-galaxy-s-i9000)
@@ -350,6 +351,25 @@ What you will learn:
 
 ---
 
+## OnePlus OnePlus 2
+
+You can upgrade your OnePlus 2 from stock to Android 13 / LineageOS 20.
+
+Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-oneplus-2-stock-to-android-13.4645725/>
+
+What you will learn:
+
+- Remove FRP lock
+- Unlock bootloader
+- Flash your phone with adb and fastboot
+- Backup partitions - Nandroid backup
+- Flash and use TWRP recovery
+- Install Android 13
+- Root to use Netflix, Disney ...
+- Set Dark mode for better battery
+
+---
+
 ## Samsung Galaxy Note 3
 
 You can upgrade your Samsung Galaxy Note 3 (hlte) from stock to Android 12.1 / LineageOS 19.1.
@@ -570,6 +590,7 @@ What you will learn:
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
 - Install Android 13
+- Root to use Netflix, Disney ...
 - Set Dark mode for better battery
 
 ---
