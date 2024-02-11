@@ -47,6 +47,7 @@ Enjoy, djibe.
   - [Sony Xperia Z2 Tablet LTE/Castor or Wi-Fi/Castor\_windy](#sony-xperia-z2-tablet-ltecastor-or-wi-ficastor_windy)
   - [Sony Xperia Z4 Tablet LTE/karin  or Wi-Fi/karin\_windy](#sony-xperia-z4-tablet-ltekarin--or-wi-fikarin_windy)
   - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
+  - [Sony Xperia Z5 Compact](#sony-xperia-z5-compact)
   - [Xiaomi Mi 2 or Mi 2s (Aries)](#xiaomi-mi-2-or-mi-2s-aries)
   - [Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)](#xiaomi-redmi-note-44x-mido-snapdragon-soc)
 
@@ -744,6 +745,24 @@ What you will learn:
 - Use fastboot
 - Install and use TWRP recovery
 - Install Android 11 R
+- Install BitGapps
+- Get root access with Magisk
+
+---
+
+## Sony Xperia Z5 Compact
+
+You can upgrade your Sony Xperia Z5c from any version to Android 12 / LineageOS 12.1.
+
+Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-sony-xperia-z5-compact-stock-to-android-12.4655815/>
+
+What you will learn:
+
+- Unlock Sony bootloader
+- Use fastboot
+- Flash latest Sony official firmware
+- Install and use TWRP recovery
+- Install Android 12
 - Install BitGapps
 - Get root access with Magisk
 
