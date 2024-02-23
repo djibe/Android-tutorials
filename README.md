@@ -505,6 +505,7 @@ What you will learn:
 - Backup IMEI/EFS partition and all partitions
 - Flash and use TWRP recovery
 - Install Android 13
+- You can try early versions of Android 14 too !
 - Get root access with Magisk
 
 ---
@@ -528,16 +529,16 @@ What you will learn:
 
 ## Samsung Galaxy S6
 
-You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from Stock to Android 12 / LineageOS 19.
+You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from Stock to Android 13 / LineageOS 20.
 
-Tutorial is here (39.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s6-sm-g920f-stock-to-android-10.4108425/>
+Tutorial is here (39.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s6-sm-g920f-stock-to-android-13.4108425/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 12
+- Install Android 13
 - Get root access and SafetyNet with Magisk
 - Change screen resolution for better battery
 - Set Dark mode for better battery
@@ -557,6 +558,7 @@ What you will learn:
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
 - Install Android 13
+- You can try early versions of Android 14 too !
 - Get root access and SafetyNet with Magisk
 - Set Dark mode for better battery
 
