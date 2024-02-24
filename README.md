@@ -96,7 +96,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 4 (mako, LG E960) from stock Android 5.1.1 to Android 11 / LineageOS 18.1.
   
-Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-from-stock-to-android-11.4256577/>
+Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-from-stock-to-android-11.4256577/>
 
 What you will learn:
 
@@ -104,7 +104,7 @@ What you will learn:
 - Use fastboot
 - Install and use TWRP recovery
 - Repartition stock partition table
-- Install Android 10 Q
+- Install Android 11
 - Get root access with Magisk
 
 ---
@@ -130,7 +130,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 13 / LineageOS 20.
   
-Tutorial is here (26.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-13.4275457/>
+Tutorial is here (45.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-13.4275457/>
 
 What you will learn:
 
@@ -138,7 +138,7 @@ What you will learn:
 - Use fastboot
 - Install and use TWRP recovery
 - Install Android 13
-- Install GApps
+- Install Google Apps
 - Get root access with Magisk
 - Install and use Netflix and Disney+
 
@@ -148,7 +148,7 @@ What you will learn:
 
 You can upgrade your HTC One M7 from Stock Android 4.3 to Android 11 / LineageOS 18.1.
 
-Tutorial is here (32.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m7-stock-to-android-11-lineageos-18-1.3781366/>
+Tutorial is here (35.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m7-stock-to-android-11-lineageos-18-1.3781366/>
 
 What you will learn:
 
@@ -164,20 +164,20 @@ What you will learn:
 
 ## HTC One M8
 
-You can upgrade your HTC One M8 from stock to Android 12 / LineageOS 19.
+You can upgrade your HTC One M8 from stock to Android 13 / LineageOS 20.
 
-Tutorial is here (9000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m8-stock-to-android-12.4125467/>
+Tutorial is here (11.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-htc-one-m8-stock-to-android-13.4125467/>
 
 What you will learn:
 
 - Unlock HTC bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 12.1/12L
+- Install Android 13
 - Install Google Apps
 - Get root access with Magisk
 
-Android 13 is incoming !!!
+You can try early versions of Android 14 too !
 
 ---
 
@@ -241,7 +241,7 @@ Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutori
 What you will learn:
 
 - Upgrade Android 4.4.2 to Android 5
-- Root LG G3 in 2022
+- Root LG G3 in 2024
 - Install and use TWRP recovery
 - Install Android 11 and Google Apps
 - Install Magisk
@@ -258,7 +258,7 @@ Tutorial is here (9000+ views): <https://forum.xda-developers.com/t/guide-tutori
 What you will learn:
 
 - Downgrade Android 6 to Android 5
-- Root LG G3 in 2022
+- Root LG G3 in 2024
 - Unlock LG bootloader
 - Install and use TWRP recovery
 - Install Android 11 and Google Apps
@@ -280,6 +280,7 @@ What you will learn:
 - Use fastboot
 - Install and use TWRP recovery
 - Install Android 11 and Google Apps
+- Android 13 is available: https://xdaforums.com/t/rom-android-13-usu-lg-g4-crdroid-v9-14.4628109/
 - Install Magisk
 - Get root access
 - Bonus: Install SHRP recovery
@@ -304,7 +305,7 @@ What you will learn:
 
 ## Motorola Moto G3 (osprey/merlin)
 
-You can upgrade your Motorola Moto G3 from stock to Android 12.1 / LineageOS 19.1.
+You can upgrade your Motorola Moto G3 from stock to Android 12 / LineageOS 19.
 
 Tutorial is here (130 views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g3-from-stock-to-android-12.4563839/>
 
@@ -372,9 +373,9 @@ What you will learn:
 
 ## Samsung Galaxy Note 3
 
-You can upgrade your Samsung Galaxy Note 3 (hlte) from stock to Android 12.1 / LineageOS 19.1.
+You can upgrade your Samsung Galaxy Note 3 (hlte) from stock to Android 12 / LineageOS 19.
 
-Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-note-3-stock-to-android-12-1.4628405/#post-89014513>
+Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-note-3-stock-to-android-12-1.4628405/>
 
 What you will learn:
 
@@ -671,7 +672,7 @@ TODO: style
 
 You can upgrade your Sony Xperia Z2 (sirius/D6502/D6503) from any version to Android 11 / LineageOS 18.1.
 
-Tutorial is here (1000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-stock-to-android-11.4495087/#post-87457511>
+Tutorial is here (1000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-stock-to-android-11.4495087/>
 
 What you will learn:
 
