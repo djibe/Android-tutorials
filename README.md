@@ -549,25 +549,26 @@ What you will learn:
 
 ## Samsung Galaxy S7
 
-You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 13 / LineageOS 20.
+You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 14 / LineageOS 21.
 
-Tutorial is here (21.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-13.4201187/>
+Tutorial is here (24.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-14.4201187/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 13
-- You can try early versions of Android 14 too !
+- Install Android 14
 - Get root access and SafetyNet with Magisk
 - Set Dark mode for better battery
+- Set gestures navigation
+- Set screen definition to save battery
 
 ---
 
 ## Samsung Galaxy S7 Edge
 
-You can upgrade your Samsung Galaxy S7 Edge (hero2lte/Exynos SOC) from stock to Android 13 / LineageOS 20.
+You can upgrade your Samsung Galaxy S7 Edge (hero2lte/Exynos SOC) from stock to Android 14 / LineageOS 21.
 
 Tutorial is here (11.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-13.4404405/>
 
@@ -576,7 +577,7 @@ What you will learn:
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 13
+- Install Android 14
 - Set Dark mode for better battery
 
 ---
