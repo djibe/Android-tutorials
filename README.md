@@ -130,7 +130,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 13 / LineageOS 20.
   
-Tutorial is here (45.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-13.4275457/>
+Tutorial is here (52.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-13.4275457/>
 
 What you will learn:
 
@@ -748,7 +748,7 @@ What you will learn:
 - Unlock Sony bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 11 R
+- Install Android 12
 - Install BitGapps
 - Get root access with Magisk
 
