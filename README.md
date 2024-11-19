@@ -113,7 +113,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2012 tablet (3G or wifi) from stock to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (16.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
+Tutorial is here (28.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
 
 What you will learn:
 
@@ -166,7 +166,7 @@ What you will learn:
 
 You can upgrade your HTC One M8 from stock to Android 13 / LineageOS 20.
 
-Tutorial is here (11.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-htc-one-m8-stock-to-android-13.4125467/>
+Tutorial is here (14.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-htc-one-m8-stock-to-android-13.4125467/>
 
 What you will learn:
 
@@ -183,7 +183,7 @@ You can try early versions of Android 14 too !
 
 ## HTC One M9
 
-You can upgrade your HTC One M9 from stock to Android 12 / LineageOS 19.
+You can upgrade your HTC One M9 from stock to Android 12.1 / LineageOS 19.1.
 
 Tutorial is here (2000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m9-any-model-from-stock-to-android-12.4471583/>
 
@@ -194,7 +194,7 @@ What you will learn:
 - Unlock HTC bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 12
+- Install Android 12.1
 - Install Google Apps
 - Get root access with Magisk
 
@@ -584,16 +584,16 @@ What you will learn:
 
 ## Samsung Galaxy S8 and S8+
 
-You can upgrade your Samsung Galaxy S8 (dreamtlte/Exynos SOC) and S8+ (dream2lte) from stock to Android 13 / LineageOS 20.
+You can upgrade your Samsung Galaxy S8 (dreamtlte/Exynos SOC) and S8+ (dream2lte) from stock to Android 14 / LineageOS 21.
 
-Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s8-stock-to-android-13.4599235/>
+Tutorial is here (11.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s8-or-s8-stock-to-android-14.4599235/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI and Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 13
+- Install Android 14
 - Root to use Netflix, Disney ...
 - Set Dark mode for better battery
 
