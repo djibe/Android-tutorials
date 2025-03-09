@@ -45,7 +45,7 @@ Enjoy, djibe.
   - [Sony Xperia Z2](#sony-xperia-z2)
   - [Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux\_windy](#sony-xperia-tablet-z-ltepollux-or-wi-fipollux_windy)
   - [Sony Xperia Z2 Tablet LTE/Castor or Wi-Fi/Castor\_windy](#sony-xperia-z2-tablet-ltecastor-or-wi-ficastor_windy)
-  - [Sony Xperia Z4 Tablet LTE/karin  or Wi-Fi/karin\_windy](#sony-xperia-z4-tablet-ltekarin--or-wi-fikarin_windy)
+  - [Sony Xperia Z4 Tablet LTE/karin or Wi-Fi/karin\_windy](#sony-xperia-z4-tablet-ltekarin-or-wi-fikarin_windy)
   - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
   - [Sony Xperia Z5 Compact](#sony-xperia-z5-compact)
   - [Xiaomi Mi 2 or Mi 2s (Aries)](#xiaomi-mi-2-or-mi-2s-aries)
@@ -57,7 +57,7 @@ Enjoy, djibe.
 
 You can upgrade your Asus Transformer Prime from any version to Android 7.1 Nougat / LineageOS 14.1.
 
-Tutorial is here (113.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-asus-transformer-prime-tf201-stock-to-android-7-1-nougat.3486237/>
+Tutorial is here (128.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-asus-transformer-prime-tf201-stock-to-android-7-1-nougat.3486237/>
 
 What you will learn:
 
@@ -77,7 +77,7 @@ What you will learn:
 
 You can upgrade your Asus Transformer Pad TF300T from any version to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (203.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-asus-transformer-pad-tf300t-any-version-to-android-7-1-nougat.3554744/>
+Tutorial is here (240.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-asus-transformer-pad-tf300t-any-version-to-android-7-1-nougat.3554744/>
 
 What you will learn:
 
@@ -96,7 +96,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 4 (mako, LG E960) from stock Android 5.1.1 to Android 11 / LineageOS 18.1.
   
-Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-from-stock-to-android-11.4256577/>
+Tutorial is here (7000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-from-stock-to-android-11.4256577/>
 
 What you will learn:
 
@@ -113,7 +113,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2012 tablet (3G or wifi) from stock to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (28.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
+Tutorial is here (30.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
 
 What you will learn:
 
@@ -130,7 +130,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 13 / LineageOS 20.
   
-Tutorial is here (52.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-13.4275457/>
+Tutorial is here (71.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-13.4275457/>
 
 What you will learn:
 
@@ -148,7 +148,7 @@ What you will learn:
 
 You can upgrade your HTC One M7 from Stock Android 4.3 to Android 11 / LineageOS 18.1.
 
-Tutorial is here (35.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m7-stock-to-android-11-lineageos-18-1.3781366/>
+Tutorial is here (37.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m7-stock-to-android-11-lineageos-18-1.3781366/>
 
 What you will learn:
 
@@ -183,9 +183,9 @@ You can try early versions of Android 14 too !
 
 ## HTC One M9
 
-You can upgrade your HTC One M9 from stock to Android 12.1 / LineageOS 19.1.
+You can upgrade your HTC One M9 from stock to Android 12 / LineageOS 19.
 
-Tutorial is here (2000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m9-any-model-from-stock-to-android-12.4471583/>
+Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m9-any-model-from-stock-to-android-12.4471583/>
 
 What you will learn:
 
@@ -194,7 +194,7 @@ What you will learn:
 - Unlock HTC bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 12.1
+- Install Android 12
 - Install Google Apps
 - Get root access with Magisk
 
@@ -204,7 +204,7 @@ What you will learn:
 
 You can upgrade your Huawei Honor 5X from stock to Android 10 / LineageOS 17.1.
 
-Tutorial is here (4000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-huawei-honor-5x-from-stock-to-android-10.4563855/>
+Tutorial is here (7000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-huawei-honor-5x-from-stock-to-android-10.4563855/>
 
 What you will learn:
 
@@ -221,7 +221,7 @@ What you will learn:
 
 You can upgrade your LG GPad 8.3 V500 from stock to Android 9 Pie / crDroid 5.x
 
-Tutorial is here (33.000+ views): <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
+Tutorial is here (43.000+ views): <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
 
 What you will learn:
 
@@ -236,16 +236,18 @@ What you will learn:
 
 You can upgrade your LG G2 d802 from stock to Android 11 / LineageOS 18.
 
-Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g2-d802-stock-to-android-11.4339221/>
+Tutorial is here (15.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g2-d802-stock-to-android-11.4339221/>
 
 What you will learn:
 
-- Upgrade Android 4.4.2 to Android 5
+- Upgrade firmware from Android 4.4.2 to Android 5
 - Root LG G3 in 2024
 - Install and use TWRP recovery
 - Install Android 11 and Google Apps
 - Install Magisk
 - Get root access
+
+TODO: LOS 19 <https://sourceforge.net/projects/jb881122-lineageos/files/LineageOS%2019.1/d802/>
 
 ---
 
@@ -253,7 +255,7 @@ What you will learn:
 
 You can upgrade your LG G3 d855 from stock to Android 11 / LineageOS 18.
 
-Tutorial is here (9000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g3-d855-stock-to-android-11.4267175/>
+Tutorial is here (18.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g3-d855-stock-to-android-11.4267175/>
 
 What you will learn:
 
@@ -266,13 +268,15 @@ What you will learn:
 - Get root access
 - Install and use Netflix SD and Disney+
 
+TODO: Other LG G3 variants
+
 ---
 
 ## LG G4 H815 / H811
 
 You can upgrade your LG G4 h815 from stock to Android 11 / LineageOS 18.
 
-Tutorial is here (17.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g4-h811-h815-from-stock-to-android-11.3879698/>
+Tutorial is here (22.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g4-h811-h815-from-stock-to-android-11.3879698/>
 
 What you will learn:
 
@@ -307,7 +311,7 @@ What you will learn:
 
 You can upgrade your Motorola Moto G3 from stock to Android 12 / LineageOS 19.
 
-Tutorial is here (130 views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g3-from-stock-to-android-12.4563839/>
+Tutorial is here (4000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g3-from-stock-to-android-12.4563839/>
 
 What you will learn:
 
@@ -324,7 +328,7 @@ What you will learn:
 
 You can upgrade your Motorola Moto G5 from stock to Android 11 / LineageOS 18.1.
 
-Tutorial is here (860 views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g5-stock-to-android-11.4524049/>
+Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g5-stock-to-android-11.4524049/>
 
 What you will learn:
 
@@ -341,7 +345,7 @@ What you will learn:
 
 You can upgrade your Nvidia Shield Tablet K1 from stock to Android 9 / LineageOS 16.
 
-Tutorial is here (2000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-nvidia-shield-tablet-k1-stock-to-android-9.4524451/>
+Tutorial is here (13.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-nvidia-shield-tablet-k1-stock-to-android-9.4524451/>
 
 What you will learn:
 
@@ -356,7 +360,7 @@ What you will learn:
 
 You can upgrade your OnePlus 2 from stock to Android 13 / LineageOS 20.
 
-Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-oneplus-2-stock-to-android-13.4645725/>
+Tutorial is here (1000+ views): <https://xdaforums.com/t/guide-tutorial-howto-oneplus-2-stock-to-android-13.4645725/>
 
 What you will learn:
 
@@ -375,7 +379,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy Note 3 (hlte) from stock to Android 12 / LineageOS 19.
 
-Tutorial is here: <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-note-3-stock-to-android-12-1.4628405/>
+Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-note-3-stock-to-android-12-1.4628405/>
 
 What you will learn:
 
@@ -392,7 +396,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2.
 
-Tutorial is here (15.000+ views): <https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200>
+Tutorial is here (17.000+ views): <https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200>
 
 What you will learn:
 
@@ -421,7 +425,7 @@ What you will learn:
 
 You can upgrade your Galaxy S GT-I9000 from any version to Android 6 Marshmallow.
 
-Tutorial is here (7000+ views): <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-samsung-galaxy-s-t4115653>
+Tutorial is here (12.000+ views): <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-samsung-galaxy-s-t4115653>
 
 What you will learn:
 
@@ -477,36 +481,33 @@ TODO: style, update
 
 ## Samsung Galaxy S4 i9505 (jfltexx)
 
-You can upgrade your SGS4 from any version to Android 11 R / LineageOS 18.1.
+You can upgrade your SGS4 from any version to Android 12.1 / LineageOS 19.1.
 
-Tutorial is here (6000+): <https://forum.xda-developers.com/galaxy-s4/help/guide-tutorial-samsung-galaxy-s4-i9505-t3517706>
+Tutorial is here (7000+): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s4-i9505-stock-to-android-12.3517706/>
 
 What you will learn:
 
 - Flash TWRP recovery with Odin
 - Make a Nandroid backup with TWRP recovery
 - Install a custom ROM with TWRP recovery
-- Install Android 11
+- Install Android 12
 - Get root access with Magisk
 - Use Dark mode
-
-TODO: compatible models
 
 ---
 
 ## Samsung Galaxy S5 (klte/Snapdragon)
 
-You can upgrade your SGS5 from any version to Android 13 / LineageOS 20.
+You can upgrade your SGS5 from any version to Android 14 / LineageOS 21.
 
-Tutorial is here (13.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-12.4354951/>
+Tutorial is here (20.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-14.4354951/>
 
 What you will learn:
 
 - Flash your phone with Odin
 - Backup IMEI/EFS partition and all partitions
 - Flash and use TWRP recovery
-- Install Android 13
-- You can try early versions of Android 14 too !
+- Install Android 14
 - Get root access with Magisk
 
 ---
@@ -515,7 +516,7 @@ What you will learn:
 
 You can upgrade your SGS5 mini from Stock to Android 9 Pie / LineageOS 16.
 
-Tutorial is here (37.000+ views): <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
+Tutorial is here (40.000+ views): <https://forum.xda-developers.com/galaxy-s5-mini/general/guide-tutorial-samsung-galaxy-s5-mini-t3669605>
 
 What you will learn:
 
@@ -530,9 +531,9 @@ What you will learn:
 
 ## Samsung Galaxy S6
 
-You can upgrade your Samsung Galaxy S6 (SM-G920F/zeroflte) from Stock to Android 13 / LineageOS 20.
+You can upgrade your Samsung Galaxy S6 (SM-G920F/zerofltexx) from Stock to Android 13 / LineageOS 20.
 
-Tutorial is here (39.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s6-sm-g920f-stock-to-android-13.4108425/>
+Tutorial is here (44.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s6-sm-g920f-stock-to-android-13.4108425/>
 
 What you will learn:
 
@@ -543,7 +544,6 @@ What you will learn:
 - Get root access and SafetyNet with Magisk
 - Change screen resolution for better battery
 - Set Dark mode for better battery
-- Change screen resolution for better battery
 
 ---
 
@@ -551,7 +551,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S7 (herolte/Exynos SOC) from stock to Android 14 / LineageOS 21.
 
-Tutorial is here (24.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-14.4201187/>
+Tutorial is here (29.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s7-herolte-stock-to-android-14.4201187/>
 
 What you will learn:
 
@@ -570,7 +570,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S7 Edge (hero2lte/Exynos SOC) from stock to Android 14 / LineageOS 21.
 
-Tutorial is here (11.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-13.4404405/>
+Tutorial is here (15.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s7-edge-stock-to-android-14.4404405/>
 
 What you will learn:
 
@@ -586,7 +586,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy S8 (dreamtlte/Exynos SOC) and S8+ (dream2lte) from stock to Android 14 / LineageOS 21.
 
-Tutorial is here (11.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s8-or-s8-stock-to-android-14.4599235/>
+Tutorial is here (14.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s8-or-s8-stock-to-android-14.4599235/>
 
 What you will learn:
 
@@ -617,7 +617,7 @@ What you will learn:
 
 ## Samsung Galaxy Tab S2
 
-You can upgrade your Samsung Galaxy Tab S2 from stock to Android 10 R.
+You can upgrade your Samsung Galaxy Tab S2 from stock to Android 10.
 
 Tutorial is here (46.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-tab-s2-stock-to-android-10.4206561/>
 
@@ -626,7 +626,7 @@ What you will learn:
 - Flash your tablet with Odin
 - Nandroid backup
 - Flash and use TWRP recovery
-- Install Android 10 / LineageOS 17.1
+- Install Android 10
 - Install BitGApps
 - Install and use Magisk Root
 
@@ -636,7 +636,7 @@ What you will learn:
 
 You can upgrade your Sony Xperia S (LT26i/nozomi) from any version to Android 8.1 / nAOSP rom.
 
-Tutorial is here (15.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-s-stock-to-android-8-1-oreo.4222141/>
+Tutorial is here (19.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-s-stock-to-android-8-1-oreo.4222141/>
 
 What you will learn:
 
@@ -665,15 +665,13 @@ What you will learn:
 - Install Android 10 Q
 - Get root access with Magisk
 
-TODO: style
-
 ---
 
 ## Sony Xperia Z2
 
 You can upgrade your Sony Xperia Z2 (sirius/D6502/D6503) from any version to Android 11 / LineageOS 18.1.
 
-Tutorial is here (1000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-stock-to-android-11.4495087/>
+Tutorial is here (4000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-stock-to-android-11.4495087/>
 
 What you will learn:
 
@@ -687,9 +685,9 @@ What you will learn:
 
 ## Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux_windy
 
-You can upgrade your Sony Xperia Tablet Z LTE/Pollux or WiFi/Pollux_windy from any version to Android 9 Pie / LineageOS 16 (or even Android 13).
+You can upgrade your Sony Xperia Tablet Z LTE/Pollux or WiFi/Pollux_windy from any version to Android 9 Pie / LineageOS 16 (or even Android 14).
 
-Tutorial is here (62.000+ views): <https://forum.xda-developers.com/xperia-tablet-z/help/guide-tutorial-sony-xperia-tablet-z-lte-t3392831>
+Tutorial is here (75.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-sony-xperia-tablet-z-lte-or-wifi-any-version-to-android-14-or-9.3392831/>
 
 What you will learn:
 
@@ -697,7 +695,7 @@ What you will learn:
 - Use fastboot and adb
 - Install and use TWRP recovery
 - Format partitions to F2FS for better IO performances
-- Install Android 9 Pie
+- Install Android 9 or even 14
 - Get root access with Magisk
 - Flash permanent recovery with FOTAkernel
 - Overclock tablet
@@ -708,7 +706,7 @@ What you will learn:
 
 You can upgrade your Sony Xperia Z2 Tablet LTE/Castor or WiFi/Castor_windy from any version to Android 11 / LineageOS 18.1.
 
-Tutorial is here (19.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-tablet-stock-to-android-11.4356605/>
+Tutorial is here (35.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z2-tablet-stock-to-android-11.4356605/>
 
 What you will learn:
 
@@ -720,11 +718,11 @@ What you will learn:
 
 ---
 
-## Sony Xperia Z4 Tablet LTE/karin  or Wi-Fi/karin_windy
+## Sony Xperia Z4 Tablet LTE/karin or Wi-Fi/karin_windy
 
 You can upgrade your Sony Xperia Z4 Tablet LTE/karin or WiFi/karin_windy from any version to Android 11 / LineageOS 18.1.
 
-Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z4-tablet-stock-to-android-11.4567917/>
+Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z4-tablet-stock-to-android-11.4567917/>
 
 What you will learn:
 
