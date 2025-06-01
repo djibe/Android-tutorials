@@ -13,6 +13,7 @@ Enjoy, djibe.
   - [Google/LG Nexus 4](#googlelg-nexus-4)
   - [Google/Asus Nexus 7 2012](#googleasus-nexus-7-2012)
   - [Google/Asus Nexus 7 2013](#googleasus-nexus-7-2013)
+  - [Google Pixel C](#google-pixel-c)
   - [HTC One M7](#htc-one-m7)
   - [HTC One M8](#htc-one-m8)
   - [HTC One M9](#htc-one-m9)
@@ -46,8 +47,8 @@ Enjoy, djibe.
   - [Sony Xperia Tablet Z LTE/Pollux or Wi-Fi/Pollux\_windy](#sony-xperia-tablet-z-ltepollux-or-wi-fipollux_windy)
   - [Sony Xperia Z2 Tablet LTE/Castor or Wi-Fi/Castor\_windy](#sony-xperia-z2-tablet-ltecastor-or-wi-ficastor_windy)
   - [Sony Xperia Z4 Tablet LTE/karin or Wi-Fi/karin\_windy](#sony-xperia-z4-tablet-ltekarin-or-wi-fikarin_windy)
-  - [Sony Xperia Z3 Compact](#sony-xperia-z3-compact)
-  - [Sony Xperia Z5 Compact](#sony-xperia-z5-compact)
+  - [Sony Xperia Z3 Compact (z3c)](#sony-xperia-z3-compact-z3c)
+  - [Sony Xperia Z5 Compact (suzuran)](#sony-xperia-z5-compact-suzuran)
   - [Xiaomi Mi 2 or Mi 2s (Aries)](#xiaomi-mi-2-or-mi-2s-aries)
   - [Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)](#xiaomi-redmi-note-44x-mido-snapdragon-soc)
 
@@ -141,6 +142,21 @@ What you will learn:
 - Install Google Apps
 - Get root access with Magisk
 - Install and use Netflix and Disney+
+
+---
+
+## Google Pixel C
+
+You can upgrade your Google Pixel C from stock to Android 15.
+  
+Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-google-pixel-c-stock-to-android-15.4741369/>
+
+What you will learn:
+
+- Unlock bootloader
+- Use adb and fastboot
+- Install and use LineageOS recovery
+- Install Android 15
 
 ---
 
@@ -713,50 +729,50 @@ What you will learn:
 - Unlock Sony bootloader
 - Use fastboot and adb
 - Install and use TWRP recovery
-- Install Android 11 R
+- Install Android 11
 - Get root access with Magisk
 
 ---
 
 ## Sony Xperia Z4 Tablet LTE/karin or Wi-Fi/karin_windy
 
-You can upgrade your Sony Xperia Z4 Tablet LTE/karin or WiFi/karin_windy from any version to Android 11 / LineageOS 18.1.
+You can upgrade your Sony Xperia Z4 Tablet LTE/karin or WiFi/karin_windy from any version to Android 12 / LineageOS 19.1.
 
-Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z4-tablet-stock-to-android-11.4567917/>
+Tutorial is here (8000+ views): <https://xdaforums.com/t/guide-tutorial-howto-sony-xperia-z4-tablet-stock-to-android-14.4567917/>
 
 What you will learn:
 
 - Unlock Sony bootloader
 - Use fastboot and adb
 - Install and use TWRP recovery
-- Install Android 11 R
+- Install Android 12 or 14
 - Get root access with Magisk
 - Pass SafetyNet
 
 ---
 
-## Sony Xperia Z3 Compact
+## Sony Xperia Z3 Compact (z3c)
 
 You can upgrade your Sony Xperia Z3c from any version to Android 11 / LineageOS 18.1.
 
-Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z3-compact-stock-to-android-11.4354117/>
+Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-sony-xperia-z3-compact-stock-to-android-11.4354117/>
 
 What you will learn:
 
 - Unlock Sony bootloader
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 12
+- Install Android 11
 - Install BitGapps
 - Get root access with Magisk
 
 ---
 
-## Sony Xperia Z5 Compact
+## Sony Xperia Z5 Compact (suzuran)
 
-You can upgrade your Sony Xperia Z5c from any version to Android 12 / LineageOS 12.1.
+You can upgrade your Sony Xperia Z5c from any version to Android 12 / LineageOS 19.1.
 
-Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-sony-xperia-z5-compact-stock-to-android-12.4655815/>
+Tutorial is here (2000+ views): <https://xdaforums.com/t/guide-tutorial-howto-sony-xperia-z5-compact-stock-to-android-12.4655815/>
 
 What you will learn:
 
@@ -764,7 +780,7 @@ What you will learn:
 - Use fastboot
 - Flash latest Sony official firmware
 - Install and use TWRP recovery
-- Install Android 12
+- Install Android 12.1
 - Install BitGapps
 - Get root access with Magisk
 
@@ -774,7 +790,7 @@ What you will learn:
 
 You can upgrade your Xiaomi Mi2 or Mi2s from stock to Android 11 / AOSP 11.
 
-Tutorial is here (9000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-mi-2-2s-stock-to-android-10.4391775/>
+Tutorial is here (13.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-mi-2-2s-stock-to-android-10.4391775/>
 
 What you will learn:
 
@@ -783,8 +799,7 @@ What you will learn:
 - Repartition with parted
 - Install Android 11
 - Install BitGApps
-
-TODO: Android 11
+- Root my Magisk
 
 ---
 
@@ -802,3 +817,5 @@ What you will learn:
 - Install Android 12.1
 - Install MindTheGApps
 - Get root access with Magisk
+
+TODO:
