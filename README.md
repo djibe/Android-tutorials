@@ -50,6 +50,7 @@ Enjoy, djibe.
   - [Sony Xperia Z3 Compact (z3c)](#sony-xperia-z3-compact-z3c)
   - [Sony Xperia Z5 Compact (suzuran)](#sony-xperia-z5-compact-suzuran)
   - [Xiaomi Mi 2 or Mi 2s (Aries)](#xiaomi-mi-2-or-mi-2s-aries)
+  - [Xiaomi Redmi 3S/3X (land)](#xiaomi-redmi-3s3x-land)
   - [Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)](#xiaomi-redmi-note-44x-mido-snapdragon-soc)
 
 ---
@@ -790,7 +791,7 @@ What you will learn:
 
 You can upgrade your Xiaomi Mi2 or Mi2s from stock to Android 11 / AOSP 11.
 
-Tutorial is here (13.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-mi-2-2s-stock-to-android-10.4391775/>
+Tutorial is here (14.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-mi-2-2s-stock-to-android-10.4391775/>
 
 What you will learn:
 
@@ -800,6 +801,26 @@ What you will learn:
 - Install Android 11
 - Install BitGApps
 - Root my Magisk
+
+---
+
+## Xiaomi Redmi 3S/3X (land)
+
+You can upgrade your Xiaomi Redmi 3S or 3X from stock to Android 15 / LineageOS 22.2.
+
+Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-xiaomi-redmi-3s-stock-to-android-15.4742885/#post-90132880>
+
+What you will learn:
+
+- Unlock Mi Account
+- Unlock Xiaomi bootloader
+- Flash and use LOS recovery
+- Use fastboot and adb
+- Install Android 15
+- Install BitGApps
+- Root my Magisk
+
+Everything to restore a bricked Redmi 3S:3X: <https://xdaforums.com/t/repair-a-bricked-xiaomi-redmi-3s-or-3x.4742047/>
 
 ---
 
@@ -818,4 +839,4 @@ What you will learn:
 - Install MindTheGApps
 - Get root access with Magisk
 
-TODO:
+TODO: Android 15 crDroid
