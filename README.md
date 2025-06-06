@@ -800,7 +800,7 @@ What you will learn:
 - Repartition with parted
 - Install Android 11
 - Install BitGApps
-- Root my Magisk
+- Root with Magisk
 
 ---
 
@@ -818,7 +818,7 @@ What you will learn:
 - Use fastboot and adb
 - Install Android 15
 - Install BitGApps
-- Root my Magisk
+- Root with Magisk
 
 Everything to restore a bricked Redmi 3S:3X: <https://xdaforums.com/t/repair-a-bricked-xiaomi-redmi-3s-or-3x.4742047/>
 
