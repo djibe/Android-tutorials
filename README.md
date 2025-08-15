@@ -826,17 +826,15 @@ Everything to restore a bricked Redmi 3S:3X: <https://xdaforums.com/t/repair-a-b
 
 ## Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)
 
-You can upgrade your Xiaomi Redmi Note 4 from stock to Android 12 / LineageOS 19.1.
+You can upgrade your Xiaomi Redmi Note 4 from stock to Android 15 / LineageOS 22.2.
 
-Tutorial is here (18.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-xiaomi-redmi-note-4-snapdragon-stock-to-android-11-lineageos-18-1.4240159/>
+Tutorial is here (33.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-xiaomi-redmi-note-4-snapdragon-stock-to-android-15.4240159/>
 
 What you will learn:
 
 - Unlock Xiaomi bootloader
 - Use fastboot and adb
 - Install and use TWRP recovery
-- Install Android 12.1
+- Install Android 15
 - Install MindTheGApps
 - Get root access with Magisk
-
-TODO: Android 15 crDroid
