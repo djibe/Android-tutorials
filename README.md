@@ -823,13 +823,15 @@ What you will learn:
 
 Everything to restore a bricked Redmi 3S:3X: <https://xdaforums.com/t/repair-a-bricked-xiaomi-redmi-3s-or-3x.4742047/>
 
+TODO: Android 16
+
 ---
 
 ## Xiaomi Redmi 7A (pine)
 
-You can upgrade your Xiaomi Redmi 7A from stock to Android 15 / LineageOS 22.2.
+You can upgrade your Xiaomi Redmi 7A from stock to Android 16 / LineageOS 23.0.
 
-Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-xiaomi-redmi-7a-stock-to-android-15.4761244/>
+Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-xiaomi-redmi-7a-stock-to-android-16.4761244/>
 
 What you will learn:
 
@@ -837,7 +839,7 @@ What you will learn:
 - Unlock Xiaomi bootloader
 - Flash and use LOS recovery
 - Use fastboot and adb
-- Install Android 15
+- Install Android 16
 - Install BitGApps
 - Root with Magisk
 
@@ -857,3 +859,5 @@ What you will learn:
 - Install Android 15
 - Install MindTheGApps
 - Get root access with Magisk
+
+TODO: Android 16
