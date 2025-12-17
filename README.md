@@ -41,6 +41,7 @@ Enjoy, djibe.
   - [Samsung Galaxy S8 and S8+](#samsung-galaxy-s8-and-s8)
   - [Samsung Galaxy Tab 2](#samsung-galaxy-tab-2)
   - [Samsung Galaxy Tab S2](#samsung-galaxy-tab-s2)
+  - [Sony Xperia 5 (Bahamut)](#sony-xperia-5-bahamut)
   - [Sony Xperia S](#sony-xperia-s)
   - [Sony Xperia SP](#sony-xperia-sp)
   - [Sony Xperia Z2](#sony-xperia-z2)
@@ -647,6 +648,26 @@ What you will learn:
 - Install Android 10
 - Install BitGApps
 - Install and use Magisk Root
+
+---
+
+## Sony Xperia 5 (Bahamut)
+
+You can upgrade your Sony Xperia 5 from any version to Android 16 / LineageOS 23.0.
+
+Tutorial is here: 
+
+What you will learn:
+
+- Remove Retail demo mode
+- Get the real IMEI
+- Flash latest Android 11 Sony official firmware
+- Unlock Sony bootloader
+- Use fastboot
+- Install Android 16
+- Flash using WSL2
+- Install BitGapps
+- Get root access with Magisk
 
 ---
 
