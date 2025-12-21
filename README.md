@@ -655,19 +655,21 @@ What you will learn:
 
 You can upgrade your Sony Xperia 5 from any version to Android 16 / LineageOS 23.0.
 
-Tutorial is here: 
+Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-sony-xperia-5-stock-to-android-16.4772686/>
 
 What you will learn:
 
 - Remove Retail demo mode
 - Get the real IMEI
-- Flash latest Android 11 Sony official firmware
+- Flash latest Android 11 Sony official firmware (Xperia Companion or Newflasher method)
 - Unlock Sony bootloader
 - Use fastboot
+- Flash super_empty.img on Windows
 - Install Android 16
-- Flash using WSL2
-- Install BitGapps
+- Install MindTheGApps
 - Get root access with Magisk
+
+Extra: [use fastboot from WSL2](https://android.stackexchange.com/questions/264709/error-bool-androidfs-mgrreadmetadataheaderreader-lpmetadata-read-fail).
 
 ---
 
