@@ -53,6 +53,7 @@ Enjoy, djibe.
   - [Xiaomi Mi 2 or Mi 2s (Aries)](#xiaomi-mi-2-or-mi-2s-aries)
   - [Xiaomi Redmi 3S/3X (land)](#xiaomi-redmi-3s3x-land)
   - [Xiaomi Redmi 7A (pine)](#xiaomi-redmi-7a-pine)
+  - [Xiaomi Redmi 8 (olive)](#xiaomi-redmi-8-olive)
   - [Xiaomi Redmi Note 4/4X (mido, Snapdragon SOC)](#xiaomi-redmi-note-44x-mido-snapdragon-soc)
 
 ---
@@ -519,7 +520,7 @@ What you will learn:
 
 You can upgrade your SGS5 from any version to Android 14 / LineageOS 21.
 
-Tutorial is here (20.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-14.4354951/>
+Tutorial is here (26.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s5-from-stock-to-android-14.4354951/>
 
 What you will learn:
 
@@ -670,6 +671,8 @@ What you will learn:
 - Get root access with Magisk
 
 Extra: [use fastboot from WSL2](https://android.stackexchange.com/questions/264709/error-bool-androidfs-mgrreadmetadataheaderreader-lpmetadata-read-fail).
+
+TODO: Unlock thread
 
 ---
 
@@ -852,13 +855,30 @@ TODO: Android 16
 
 ## Xiaomi Redmi 7A (pine)
 
-You can upgrade your Xiaomi Redmi 7A from stock to Android 16 / LineageOS 23.0.
+You can upgrade your Xiaomi Redmi 7A from stock to Android 16 / LineageOS 23.2.
 
 Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-xiaomi-redmi-7a-stock-to-android-16.4761244/>
 
 What you will learn:
 
 - Unlock Mi Account
+- Unlock Xiaomi bootloader
+- Flash and use LOS recovery
+- Use fastboot and adb
+- Install Android 16
+- Install BitGApps
+- Root with Magisk
+
+---
+
+## Xiaomi Redmi 8 (olive)
+
+You can upgrade your Xiaomi Redmi 8 from stock to Android 16 / LineageOS 23.2.
+
+Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-xiaomi-redmi-8-stock-to-android-16.4794196/>
+
+What you will learn:
+
 - Unlock Xiaomi bootloader
 - Flash and use LOS recovery
 - Use fastboot and adb
