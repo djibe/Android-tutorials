@@ -102,7 +102,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 4 (mako, LG E960) from stock Android 5.1.1 to Android 11 / LineageOS 18.1.
   
-Tutorial is here (7000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-from-stock-to-android-11.4256577/>
+Tutorial is here (10.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-4-from-stock-to-android-11.4256577/>
 
 What you will learn:
 
@@ -119,7 +119,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2012 tablet (3G or wifi) from stock to Android 7.1 Nougat / LineageOS 14.1.
   
-Tutorial is here (30.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
+Tutorial is here (40.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
 
 What you will learn:
 
@@ -136,7 +136,7 @@ What you will learn:
 
 You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 13 / LineageOS 20.
   
-Tutorial is here (71.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-13.4275457/>
+Tutorial is here (105.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-13.4275457/>
 
 What you will learn:
 
@@ -152,9 +152,9 @@ What you will learn:
 
 ## Google Pixel C
 
-You can upgrade your Google Pixel C from stock to Android 15.
+You can upgrade your Google Pixel C from stock to Android 15 / LineageOS 22.
   
-Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-google-pixel-c-stock-to-android-15.4741369/>
+Tutorial is here (3000+ views): <https://xdaforums.com/t/guide-tutorial-howto-google-pixel-c-stock-to-android-15.4741369/>
 
 What you will learn:
 
@@ -169,7 +169,7 @@ What you will learn:
 
 You can upgrade your HTC One M7 from Stock Android 4.3 to Android 11 / LineageOS 18.1.
 
-Tutorial is here (37.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m7-stock-to-android-11-lineageos-18-1.3781366/>
+Tutorial is here (42.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m7-stock-to-android-11-lineageos-18-1.3781366/>
 
 What you will learn:
 
@@ -187,7 +187,7 @@ What you will learn:
 
 You can upgrade your HTC One M8 from stock to Android 13 / LineageOS 20.
 
-Tutorial is here (14.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-htc-one-m8-stock-to-android-13.4125467/>
+Tutorial is here (19.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-htc-one-m8-stock-to-android-13.4125467/>
 
 What you will learn:
 
@@ -206,7 +206,7 @@ You can try early versions of Android 14 too !
 
 You can upgrade your HTC One M9 from stock to Android 12 / LineageOS 19.
 
-Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m9-any-model-from-stock-to-android-12.4471583/>
+Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m9-any-model-from-stock-to-android-12.4471583/>
 
 What you will learn:
 
@@ -223,18 +223,17 @@ What you will learn:
 
 ## Huawei Honor 5X (kiwi)
 
-You can upgrade your Huawei Honor 5X from stock to Android 10 / LineageOS 17.1.
+You can upgrade your Huawei Honor 5X from stock to Android 12 / LineageOS 19.1.
 
-Tutorial is here (7000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-huawei-honor-5x-from-stock-to-android-10.4563855/>
+Tutorial is here (10.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-huawei-honor-5x-from-stock-to-android-10.4563855/>
 
 What you will learn:
 
 - Unlock Honor 5X bootloader for $4
 - Use fastboot
 - Install and use TWRP recovery
-- Install Android 10 and Google Apps
+- Install Android 12 and Google Apps
 - Get root access with Magisk
-- Pass SafetyNet to use Netflix and Disney+
 
 ---
 
