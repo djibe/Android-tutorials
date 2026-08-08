@@ -39,6 +39,7 @@ Enjoy, djibe.
   - [Samsung Galaxy S7](#samsung-galaxy-s7)
   - [Samsung Galaxy S7 Edge](#samsung-galaxy-s7-edge)
   - [Samsung Galaxy S8 and S8+](#samsung-galaxy-s8-and-s8)
+  - [Samsung Galaxy S10](#samsung-galaxy-s10)
   - [Samsung Galaxy Tab 2](#samsung-galaxy-tab-2)
   - [Samsung Galaxy Tab S2](#samsung-galaxy-tab-s2)
   - [Sony Xperia 5 (Bahamut)](#sony-xperia-5-bahamut)
@@ -616,6 +617,23 @@ What you will learn:
 - Install Android 14
 - Root to use Netflix, Disney ...
 - Set Dark mode for better battery
+
+---
+
+## Samsung Galaxy S10
+
+You can upgrade your Samsung Galaxy S10 (beyond1lte/Exynos SOC) from stock to Android 16 / LineageOS 23.
+
+Tutorial is here: <https://xdaforums.com/t/guide-tutorial-howto-samsung-galaxy-s10-stock-to-android-16.4797689/>
+
+What you will learn:
+
+- Unlock bootloader
+- Flash your phone with Heimdall
+- Flash and use LineageOS Recovery
+- Sideload zipfiles
+- Install Android 16
+- Root with Magisk to use Netflix, Disney ...
 
 ---
 
