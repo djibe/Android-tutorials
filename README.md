@@ -117,7 +117,7 @@ What you will learn:
 
 ## Google/Asus Nexus 7 2012
 
-You can upgrade your Google Nexus 7 2012 tablet (3G or wifi) from stock to Android 7.1 Nougat / LineageOS 14.1.
+You can upgrade your Google Nexus 7 2012 tablet (3G or wifi) from stock Android 5 to Android 7.1 Nougat / LineageOS 14.1.
   
 Tutorial is here (40.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2012-stock-to-android-7-1.4236959/>
 
@@ -134,7 +134,7 @@ What you will learn:
 
 ## Google/Asus Nexus 7 2013
 
-You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock to Android 13 / LineageOS 20.
+You can upgrade your Google Nexus 7 2013 tablet (LTE or wifi) from stock Android 6 to Android 13 / LineageOS 20.
   
 Tutorial is here (105.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-google-nexus-7-2013-stock-to-android-13.4275457/>
 
@@ -204,7 +204,7 @@ You can try early versions of Android 14 too !
 
 ## HTC One M9
 
-You can upgrade your HTC One M9 from stock to Android 12 / LineageOS 19.
+You can upgrade your HTC One M9 from stock to Android 12 / LineageOS 19.1.
 
 Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-htc-one-m9-any-model-from-stock-to-android-12.4471583/>
 
@@ -225,11 +225,11 @@ What you will learn:
 
 You can upgrade your Huawei Honor 5X from stock to Android 12 / LineageOS 19.1.
 
-Tutorial is here (10.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-huawei-honor-5x-from-stock-to-android-10.4563855/>
+Tutorial is here (10.000+ views): <https://xdaforums.com/t/guide-tutorial-howto-huawei-honor-5x-from-stock-to-android-12.4563855/>
 
 What you will learn:
 
-- Unlock Honor 5X bootloader for $4
+- Unlock Honor 5X bootloader for $10
 - Use fastboot
 - Install and use TWRP recovery
 - Install Android 12 and Google Apps
@@ -241,7 +241,7 @@ What you will learn:
 
 You can upgrade your LG GPad 8.3 V500 from stock to Android 9 Pie / crDroid 5.x
 
-Tutorial is here (43.000+ views): <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
+Tutorial is here (57.000+ views): <https://forum.xda-developers.com/lg-g-pad-83/general/guide-tutorial-howto-lg-gpad-8-3-v500-t3967069>
 
 What you will learn:
 
@@ -254,9 +254,9 @@ What you will learn:
 
 ## LG G2 (D802)
 
-You can upgrade your LG G2 d802 from stock to Android 11 / LineageOS 18.
+You can upgrade your LG G2 d802 from stock to Android 11 / LineageOS 18.1.
 
-Tutorial is here (15.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g2-d802-stock-to-android-11.4339221/>
+Tutorial is here (21.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g2-d802-stock-to-android-11.4339221/>
 
 What you will learn:
 
@@ -267,11 +267,13 @@ What you will learn:
 - Install Magisk
 - Get root access
 
-TODO: LOS 19 <https://sourceforge.net/projects/jb881122-lineageos/files/LineageOS%2019.1/d802/>
+TODO: Android 12/LOS 19 <https://sourceforge.net/projects/jb881122-lineageos/files/LineageOS%2019.1/d802/>
 
 ---
 
 ## LG G3 D855
+
+> LG bootloader cannot be unlocked anymore. It's a shame.
 
 You can upgrade your LG G3 d855 from stock to Android 11 / LineageOS 18.
 
@@ -281,7 +283,7 @@ What you will learn:
 
 - Downgrade Android 6 to Android 5
 - Root LG G3 in 2024
-- Unlock LG bootloader
+- Unlock LG bootloader : no more possible
 - Install and use TWRP recovery
 - Install Android 11 and Google Apps
 - Install Magisk
@@ -294,13 +296,15 @@ TODO: Other LG G3 variants
 
 ## LG G4 H815 / H811
 
+> LG bootloader cannot be unlocked anymore. It's a shame.
+
 You can upgrade your LG G4 h815 from stock to Android 11 / LineageOS 18.
 
-Tutorial is here (22.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g4-h811-h815-from-stock-to-android-11.3879698/>
+Tutorial is here (27.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g4-h811-h815-from-stock-to-android-11.3879698/>
 
 What you will learn:
 
-- Unlock LG bootloader
+- Unlock LG bootloader : no more possible
 - Use fastboot
 - Install and use TWRP recovery
 - Install Android 11 and Google Apps
@@ -325,13 +329,15 @@ What you will learn:
 - Install Android 9 Pie
 - Get root access with Magisk
 
+TODO: Rebuild
+
 ---
 
 ## Motorola Moto G3 (osprey/merlin)
 
-You can upgrade your Motorola Moto G3 from stock to Android 12 / LineageOS 19.
+You can upgrade your Motorola Moto G3 from stock to Android 12 / LineageOS 19.1.
 
-Tutorial is here (4000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g3-from-stock-to-android-12.4563839/>
+Tutorial is here (7000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g3-from-stock-to-android-12.4563839/>
 
 What you will learn:
 
@@ -348,7 +354,7 @@ What you will learn:
 
 You can upgrade your Motorola Moto G5 from stock to Android 11 / LineageOS 18.1.
 
-Tutorial is here (5000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g5-stock-to-android-11.4524049/>
+Tutorial is here (8000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-motorola-moto-g5-stock-to-android-11.4524049/>
 
 What you will learn:
 
@@ -365,7 +371,7 @@ What you will learn:
 
 You can upgrade your Nvidia Shield Tablet K1 from stock to Android 9 / LineageOS 16.
 
-Tutorial is here (13.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-nvidia-shield-tablet-k1-stock-to-android-9.4524451/>
+Tutorial is here (20.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-nvidia-shield-tablet-k1-stock-to-android-9.4524451/>
 
 What you will learn:
 
@@ -380,7 +386,7 @@ What you will learn:
 
 You can upgrade your OnePlus 2 from stock to Android 13 / LineageOS 20.
 
-Tutorial is here (1000+ views): <https://xdaforums.com/t/guide-tutorial-howto-oneplus-2-stock-to-android-13.4645725/>
+Tutorial is here (2000+ views): <https://xdaforums.com/t/guide-tutorial-howto-oneplus-2-stock-to-android-13.4645725/>
 
 What you will learn:
 
@@ -397,7 +403,7 @@ What you will learn:
 
 ## Samsung Galaxy Note 3
 
-You can upgrade your Samsung Galaxy Note 3 (hlte) from stock to Android 12 / LineageOS 19.
+You can upgrade your Samsung Galaxy Note 3 (hlte) from stock to Android 12 / LineageOS 19.1.
 
 Tutorial is here (3000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-samsung-galaxy-note-3-stock-to-android-12-1.4628405/>
 
@@ -416,7 +422,7 @@ What you will learn:
 
 You can upgrade your Samsung Galaxy Grand Prime G531F from any version to Android 5.1.1 Lollipop / CS-Rom 3.2.
 
-Tutorial is here (17.000+ views): <https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200>
+Tutorial is here (19.000+ views): <https://forum.xda-developers.com/grand-prime/general/guide-tutorial-samsung-galaxy-grand-t3795200>
 
 What you will learn:
 
@@ -434,7 +440,7 @@ What you will learn:
 
 You can unlock your Samsung Galaxy S I9000 to use it with any mobile network carrier.
 
-Tutorial is here (2000+ views): <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
+Tutorial is here (4000+ views): <https://forum.xda-developers.com/galaxy-s-i9000/general/guide-tutorial-howto-unlock-debrand-t4053109>
 
 What you will learn:
 
