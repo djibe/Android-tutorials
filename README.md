@@ -22,6 +22,7 @@ Enjoy, djibe.
   - [LG G2 (D802)](#lg-g2-d802)
   - [LG G3 D855](#lg-g3-d855)
   - [LG G4 H815 / H811](#lg-g4-h815--h811)
+  - [LG G5](#lg-g5)
   - [Motorola Moto G 4G/LTE 2013 (peregrine)](#motorola-moto-g-4glte-2013-peregrine)
   - [Motorola Moto G3 (osprey/merlin)](#motorola-moto-g3-ospreymerlin)
   - [Motorola Moto G5 (cedric)](#motorola-moto-g5-cedric)
@@ -275,7 +276,7 @@ TODO: Android 12/LOS 19 <https://sourceforge.net/projects/jb881122-lineageos/fil
 
 > LG bootloader cannot be unlocked anymore. It's a shame.
 
-You can upgrade your LG G3 d855 from stock to Android 11 / LineageOS 18.
+You could upgrade your LG G3 d855 from stock to Android 11 / LineageOS 18.
 
 Tutorial is here (18.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g3-d855-stock-to-android-11.4267175/>
 
@@ -290,15 +291,13 @@ What you will learn:
 - Get root access
 - Install and use Netflix SD and Disney+
 
-TODO: Other LG G3 variants
-
 ---
 
 ## LG G4 H815 / H811
 
 > LG bootloader cannot be unlocked anymore. It's a shame.
 
-You can upgrade your LG G4 h815 from stock to Android 11 / LineageOS 18.
+You could upgrade your LG G4 h815 from stock to Android 11 / LineageOS 18.
 
 Tutorial is here (27.000+ views): <https://forum.xda-developers.com/t/guide-tutorial-howto-lg-g4-h811-h815-from-stock-to-android-11.3879698/>
 
@@ -312,6 +311,12 @@ What you will learn:
 - Install Magisk
 - Get root access
 - Bonus: Install SHRP recovery
+
+---
+
+## LG G5
+
+> LG bootloader cannot be unlocked anymore. It's a shame.
 
 ---
 
