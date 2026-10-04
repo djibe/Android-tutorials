@@ -114,6 +114,8 @@ What you will learn:
 - Install Android 11
 - Get root access with Magisk
 
+iFixit ✅
+
 ---
 
 ## Google/Asus Nexus 7 2012
@@ -130,6 +132,8 @@ What you will learn:
 - Format partitions to F2FS for better IO performances
 - Install Android 7.1 Nougat
 - Get root access with Magisk
+
+iFixit ✅
 
 ---
 
@@ -149,6 +153,8 @@ What you will learn:
 - Get root access with Magisk
 - Install and use Netflix and Disney+
 
+iFixit ✅
+
 ---
 
 ## Google Pixel C
@@ -163,6 +169,8 @@ What you will learn:
 - Use adb and fastboot
 - Install and use LineageOS recovery
 - Install Android 15
+
+iFixit ✅
 
 ---
 
@@ -182,6 +190,8 @@ What you will learn:
 - Get root access with Magisk
 - Revert to stock ROM to desimlock/debrand phone
 
+iFixit ✅
+
 ---
 
 ## HTC One M8
@@ -200,6 +210,8 @@ What you will learn:
 - Get root access with Magisk
 
 You can try early versions of Android 14 too !
+
+iFixit ✅
 
 ---
 
@@ -594,6 +606,8 @@ What you will learn:
 - Set Dark mode for better battery
 - Set gestures navigation
 - Set screen definition to save battery
+
+iFixit ✅
 
 ---
 
